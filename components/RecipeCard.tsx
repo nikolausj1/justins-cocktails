@@ -10,10 +10,10 @@ export function RecipeCard({ card }: { card: CardData }) {
       className="group flex flex-col border border-hairline bg-white/40 transition-colors hover:border-fir"
     >
       <div className="relative aspect-[4/3] overflow-hidden border-b border-hairline bg-cream-deep">
-        {card.image ? (
+        {card.imageCard ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={card.image}
+            src={card.imageCard}
             alt={card.title}
             loading="lazy"
             className="h-full w-full object-cover"

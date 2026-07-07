@@ -35,6 +35,7 @@ export interface Recipe {
   strength: number | null;
   taste: number | null;
   image: string | null;
+  imageCard: string | null;
   description: string | null;
   ingredientGroups: IngredientGroup[];
   related: { slug: string; label: string }[];
@@ -101,6 +102,7 @@ export interface CardData {
   type: "cocktail" | "ingredient";
   glasswareKey: string;
   image: string | null;
+  imageCard: string | null;
   strength: number | null;
   dateAdded: string;
   tags: string[];
@@ -118,6 +120,7 @@ export function toCardData(r: Recipe): CardData {
     type: r.type,
     glasswareKey: r.glasswareKey,
     image: r.image,
+    imageCard: r.imageCard ?? r.image,
     strength: r.strength,
     dateAdded: r.dateAdded,
     tags: r.tags,

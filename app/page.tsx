@@ -1,5 +1,79 @@
-import { recipes, toCardData, SPIRIT_FILTERS } from "@/lib/recipes";
+import Link from "next/link";
+import { recipes, getRecipe, toCardData, spiritLabelsFor, SPIRIT_FILTERS } from "@/lib/recipes";
 import { BrowseClient } from "@/components/BrowseClient";
+import { MiniStrength } from "@/components/Meter";
+
+/** The signature drinks — the ones people get this link for. */
+const FEATURED: { slug: string; blurb: string }[] = [
+  {
+    slug: "justins-espresso-martini",
+    blurb: "Mr. Black instead of Kahlua — that's the secret, and it's non-negotiable.",
+  },
+  {
+    slug: "justins-gin-sour",
+    blurb: "A coastal gin, fresh lemon, and a silky reverse-dry-shake foam.",
+  },
+  {
+    slug: "justins-margaritas",
+    blurb: "“Feel free to bastardize it if you must, but that's on you.”",
+  },
+];
+
+function Featured() {
+  const featured = FEATURED.map((f) => ({ ...f, recipe: getRecipe(f.slug)! })).filter(
+    (f) => f.recipe
+  );
+  return (
+    <section aria-label="House originals" className="mt-10">
+      <div className="flex items-baseline gap-4">
+        <h2 className="font-serif text-2xl tracking-tight">The house originals</h2>
+        <span aria-hidden="true" className="hidden h-px flex-1 bg-hairline sm:block" />
+      </div>
+      <p className="mt-1 text-sm text-ink-soft">
+        The three most requested — probably why someone handed you this link.
+      </p>
+      <div className="mt-5 grid gap-4 sm:grid-cols-3">
+        {featured.map(({ slug, blurb, recipe }, i) => (
+          <Link
+            key={slug}
+            href={`/recipes/${slug}/`}
+            className="group flex flex-col border border-hairline bg-white/40 transition-colors hover:border-fir"
+          >
+            <div className="relative aspect-[4/3] overflow-hidden border-b border-hairline bg-cream-deep">
+              {recipe.imageCard && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={recipe.imageCard}
+                  alt={recipe.title}
+                  loading={i === 0 ? "eager" : "lazy"}
+                  fetchPriority={i === 0 ? "high" : "auto"}
+                  className="h-full w-full object-cover"
+                />
+              )}
+              <span className="absolute left-3 top-3 border border-fir bg-cream px-2 py-0.5 text-[11px] uppercase tracking-[0.14em] text-fir">
+                House original
+              </span>
+            </div>
+            <div className="flex flex-1 flex-col gap-1.5 p-4">
+              <h3 className="font-serif text-xl leading-snug group-hover:text-fir-deep">
+                {recipe.title}
+              </h3>
+              <p className="text-xs uppercase tracking-[0.12em] text-ink-soft">
+                {spiritLabelsFor(recipe).join(" · ")}
+              </p>
+              <p className="text-sm leading-relaxed text-ink-soft">{blurb}</p>
+              {recipe.strength !== null && (
+                <div className="mt-auto pt-2">
+                  <MiniStrength value={recipe.strength} />
+                </div>
+              )}
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
 
 export default function Home() {
   const cards = recipes.map(toCardData);
@@ -23,7 +97,8 @@ export default function Home() {
           is explained as you go.
         </p>
       </div>
-      <div className="mt-8">
+      <Featured />
+      <div className="mt-12">
         <BrowseClient cards={cards} spiritLabels={spiritLabels} tagCounts={sortedTags} />
       </div>
     </main>

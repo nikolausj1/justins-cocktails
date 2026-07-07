@@ -120,6 +120,9 @@ async function downloadImage(url, slug, n) {
         file = jpgFile;
       }
     }
+    // 800px card-size companion for grid/featured tiles
+    const cardName = name.replace(/(\.\w+)$/, '-card$1');
+    spawnSync('sips', ['-s', 'format', 'jpeg', '-s', 'formatOptions', '70', '-Z', '640', file, '--out', path.join(IMG_DIR, cardName)], { stdio: 'ignore' });
     const size = fs.statSync(file).size;
     report.downloaded.push(`- ${name} (${Math.round(size / 1024)} KB) from ${url.slice(0, 80)}…`);
     return `/images/${name}`;
@@ -300,6 +303,7 @@ async function main() {
       strength: null,
       taste: null,
       image: imageRefs.find((r) => r.localPath)?.localPath || null,
+      imageCard: null, // filled below when a card-size copy exists
       description: null,
       ingredientGroups: [],
       related: [], // resolved after all recipes parsed
@@ -384,6 +388,11 @@ async function main() {
         const quantified = parsed.groups.flatMap((g) => g.items).filter((i) => /\b(tsp|tbsp|teaspoons?|tablespoons?|cups?|oz|parts?)\b/i.test(i.raw));
         if (quantified.length >= 2) { rec.ingredientGroups = parsed.groups; break; }
       }
+    }
+
+    if (rec.image) {
+      const cardPath = rec.image.replace(/(\.\w+)$/, '-card$1');
+      if (fs.existsSync(path.join(SITE_ROOT, 'public', cardPath))) rec.imageCard = cardPath;
     }
 
     // classify

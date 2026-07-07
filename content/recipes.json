@@ -19,6 +19,7 @@
     "strength": 5,
     "taste": 8,
     "image": null,
+    "imageCard": null,
     "description": "The Aperol Sour is a vibrant and balanced cocktail that combines the bitter-sweet profile of Aperol with the botanical notes of gin, brightened by fresh lemon juice and smoothed with egg white for a silky texture. This refreshing drink is perfect for aperitivo hour or summer gatherings.",
     "ingredientGroups": [
       {
@@ -126,6 +127,7 @@
     "strength": 8,
     "taste": 7,
     "image": null,
+    "imageCard": null,
     "description": "The Asadero Margarita is a signature cocktail from the Ballard Restaurant Asadero, known for its bold tequila flavor and perfect balance of sweet and sour. This margarita features a higher ratio of tequila to mixers than traditional recipes, creating a stronger, more spirit-forward cocktail that pairs perfectly with the restaurant's Mexican-inspired cuisine.",
     "ingredientGroups": [
       {
@@ -221,6 +223,7 @@
     "strength": 5,
     "taste": 1,
     "image": null,
+    "imageCard": null,
     "description": "The Brady Alexander is a play on the classic Brandy Alexander cocktail, a rich and creamy dessert drink that gained popularity in the early 20th century. This indulgent cocktail combines the warmth of cognac with the sweet chocolate notes of crème de cacao, all smoothed out with cream. It's perfect as an after-dinner drink or a luxurious nightcap on a cold evening.",
     "ingredientGroups": [
       {
@@ -300,6 +303,7 @@
     "strength": 6,
     "taste": 7,
     "image": null,
+    "imageCard": null,
     "description": "This Classic Margarita is served at Joey Kitchen in University Village, Seattle. It features a perfect balance of blanco tequila and lime, with egg white creating a distinctive frothy foam on top. Served in a lowball glass with a salted rim, the presentation is simple yet elegant, with a lime wedge garnish that adds a pop of color and a hint of extra citrus aroma. The cane syrup adds a subtle depth of sweetness compared to regular simple syrup. This refreshing cocktail is a staple at Joey's, known for its consistent quality and elevated take on the traditional margarita.",
     "ingredientGroups": [
       {
@@ -423,6 +427,7 @@
     "strength": 4,
     "taste": 6,
     "image": null,
+    "imageCard": null,
     "description": "The Cucumber Chill is a signature cocktail from the Jean-Michel Cousteau Resort in Fiji, one of the world's first eco-luxury hotels. Described as \"like a classic Pimm's without the frills,\" this refreshing drink showcases the clean, crisp flavors of cucumber and lime paired with botanical gin. The addition of sugarcane juice adds a subtle sweetness that's perfect for sipping on a hot day by the beach.",
     "ingredientGroups": [
       {
@@ -508,6 +513,7 @@
     "strength": 6,
     "taste": 5,
     "image": null,
+    "imageCard": null,
     "description": "The Dukes Imperfect Marg is a simplified take on the classic margarita, featuring reposado tequila for a smoother, slightly aged flavor profile. This \"imperfect\" version uses a sweet and sour mix rather than separate lime juice and simple syrup, making it quick and easy to prepare while still delivering the bright, tangy flavor that margarita lovers crave.",
     "ingredientGroups": [
       {
@@ -600,6 +606,7 @@
     "strength": 6,
     "taste": 3,
     "image": null,
+    "imageCard": null,
     "description": "The Espresso Martini is a sophisticated, coffee-flavored cocktail that perfectly balances the boldness of fresh espresso with the smoothness of vodka and coffee liqueur. Created in the 1980s by London bartender Dick Bradsell, this iconic drink has enjoyed a resurgence in popularity in recent years. The combination of caffeine and alcohol makes it the perfect pick-me-up for a night out or an after-dinner treat. The traditional garnish of three coffee beans represents health, wealth, and happiness.",
     "ingredientGroups": [
       {
@@ -707,6 +714,7 @@
     "strength": 6,
     "taste": 4,
     "image": null,
+    "imageCard": null,
     "description": "The Fluffy Margarita is a luxurious twist on the classic margarita, incorporating egg white to create a silky, creamy texture with a beautiful frothy top. This elegant variation maintains the bright, tangy flavor profile of a traditional margarita but with a smoother mouthfeel and softer finish. The addition of cane sugar syrup instead of traditional simple syrup adds a subtle depth of flavor that complements the premium Casamigos blanco tequila.",
     "ingredientGroups": [
       {
@@ -830,6 +838,7 @@
     "strength": 6,
     "taste": 5,
     "image": null,
+    "imageCard": null,
     "description": "The French 75 is a classic cocktail dating back to World War I, named after the French 75mm field gun for its similar kick. This elegant and refreshing drink combines the botanical notes of gin with bright lemon, a touch of sweetness, and the effervescence of champagne. The result is a sophisticated, celebratory cocktail perfect for special occasions, brunches, or whenever you want to add a touch of sparkle to your day.",
     "ingredientGroups": [
       {
@@ -927,6 +936,7 @@
     "strength": 5,
     "taste": 2,
     "image": null,
+    "imageCard": null,
     "description": "This icy expression of the espresso martini was created by Jason Hedges, Beverage Director at Laurent Tourondel Hospitality and co-founder of Bar-IQ. It's a frozen, creamy twist on the classic espresso martini, substituting dark rum for vodka and adding heavy cream for a richer texture. Simple to make but seriously delicious, this frozen cocktail is perfect for coffee lovers looking for a refreshing dessert drink, especially during warmer months.",
     "ingredientGroups": [
       {
@@ -1038,6 +1048,7 @@
     "strength": 5,
     "taste": 5,
     "image": null,
+    "imageCard": null,
     "description": "The Gin Fizz is a classic cocktail that dates back to the late 19th century, gaining popularity during the Prohibition era. This frothy, refreshing drink combines the botanical notes of gin with bright citrus, a touch of sweetness, and a silky texture from egg white and cream. The addition of orange blossom water adds a subtle floral aroma, while the soda water creates the signature fizz that gives this cocktail its name. The Gin Fizz is perfect for brunch or as a light, refreshing cocktail any time of day.",
     "ingredientGroups": [
       {
@@ -1160,6 +1171,7 @@
     "strength": 6,
     "taste": 7,
     "image": null,
+    "imageCard": null,
     "description": "The Gin Sour is a classic cocktail that follows the traditional sour template of spirit, citrus, and sweetener. This elegant drink showcases the botanical flavors of London dry gin, balanced by the bright acidity of fresh lemon juice and a touch of sweetness from simple syrup. The optional addition of egg white creates a silky texture and frothy top that's both visually appealing and adds a luxurious mouthfeel. A few drops of Angostura bitters on top not only add a decorative touch but also contribute subtle aromatic spice notes.",
     "ingredientGroups": [
       {
@@ -1271,6 +1283,7 @@
     "strength": 0,
     "taste": 0,
     "image": null,
+    "imageCard": null,
     "description": "This magical non-alcoholic Butterbeer recipe tastes just like the famous drink served at the Wizarding World of Harry Potter in Universal Studios. With its creamy butterscotch flavor and frothy topping, it's a perfect treat for young wizards and muggles alike. This no-cook method is incredibly easy to make, making it ideal for Harry Potter movie marathons, themed parties, or whenever you want to bring a touch of magic to your day. A possible favorite of Chase and Vinny who are huge Harry Potter fans!",
     "ingredientGroups": [
       {
@@ -1379,6 +1392,7 @@
     "strength": 7,
     "taste": 4,
     "image": "/images/justins-espresso-martini.jpg",
+    "imageCard": "/images/justins-espresso-martini-card.jpg",
     "description": "This is my recipe... there are a lot of espresso martini recipes out there, but this is the best one. It involves just a little more work to make it great. So don't skimp out. Do the work.\n\nThis recipe yields two martini glasses. \n\nThe mixing technique is called a reverse dry shake. For me, it yields the best creamiest foam on top of the drink to hold all the fun garnishes we add at the end.\n\nIf you've had a better espresso martini, let me know. So far, this is my favorite.",
     "ingredientGroups": [
       {
@@ -1506,6 +1520,7 @@
     "strength": 6,
     "taste": 9,
     "image": "/images/justins-gin-sour.jpg",
+    "imageCard": "/images/justins-gin-sour-card.jpg",
     "description": "Sheena’s Gin Sour is a personal take on the classic gin sour, featuring a carefully selected gin with citrus or coastal notes, fresh lemon juice, and a silky egg white foam.",
     "ingredientGroups": [
       {
@@ -1622,6 +1637,7 @@
     "strength": 7,
     "taste": 8,
     "image": "/images/justins-margaritas.jpg",
+    "imageCard": "/images/justins-margaritas-card.jpg",
     "description": "This is my recipe… feel free to bastardize it if you must, but that's on you. Actually, on second thought, don't do that. Just drink wine or whisky if you don't want to follow instructions. This yields about two margaritas. I like my margaritas tart, so I use a lot of lime. The measurements are estimates. I don't use a jigger; instead, I pour based on \"feeling\" (meaning more will come out of the bottle depending on how the kids behaved that day). You could strain the shaker into glasses full of fresh ice when making drinks for multiple people. This can stretch one batch up to 3 drinks depending on how much ice is in each glass.",
     "ingredientGroups": [
       {
@@ -1746,6 +1762,7 @@
     "strength": 6,
     "taste": 4,
     "image": null,
+    "imageCard": null,
     "description": "If gin and grapefruit juice is a Greyhound, and adding salt is a Salty Dog, then adding egg white for a fluffy drink must be a Pomeranian! This original from Justin is a refreshing cocktail that combines the tartness of fresh grapefruit juice with the botanical notes of gin, while the egg white creates a luxurious, silky texture and frothy top.",
     "ingredientGroups": [
       {
@@ -1840,6 +1857,7 @@
     "strength": 2,
     "taste": 3,
     "image": null,
+    "imageCard": null,
     "description": "This elegant and simple aperitif features Lillet Blanc, a French aromatized wine, served extra cold with a frozen orange slice that acts as both a beautiful garnish and a natural ice cube. The frozen orange slowly melts into the Lillet, gradually releasing its citrus oils and flavors while keeping the drink perfectly chilled without dilution. This refreshing drink gained popularity on social media for its simplicity and visual appeal, making it perfect for warm weather gatherings or as a sophisticated pre-dinner drink.",
     "ingredientGroups": [
       {
@@ -1923,6 +1941,7 @@
     "strength": 4,
     "taste": 2,
     "image": null,
+    "imageCard": null,
     "description": "The Lychee Margarita is a tropical twist on the classic margarita, featuring the delicate, floral sweetness of lychee fruit. This exotic cocktail combines the bold flavor of tequila with fresh lime juice and homemade lychee syrup for a refreshing, fruity drink that's both sophisticated and approachable. The pink dust rim adds a touch of elegance and a hint of color that complements the subtle sweetness of the lychee. Perfect for summer gatherings or whenever you want to add a unique Asian-inspired flavor to your cocktail repertoire.",
     "ingredientGroups": [
       {
@@ -2033,6 +2052,7 @@
     "strength": 8,
     "taste": 6,
     "image": null,
+    "imageCard": null,
     "description": "The Mexican Martini is a sophisticated hybrid between a margarita and a dirty martini that originated in Austin, Texas. This potent cocktail combines the rich flavor of añejo tequila with Cointreau, fresh citrus, and a touch of olive brine for a savory twist. Served in a salt-rimmed martini glass with olives, it offers a complex flavor profile that's simultaneously bright, salty, and smooth. The Mexican Martini is perfect for sipping slowly alongside chips and salsa, making it an ideal choice for a leisurely happy hour or relaxed gathering with friends.",
     "ingredientGroups": [
       {
@@ -2151,6 +2171,7 @@
     "strength": 4,
     "taste": 4,
     "image": null,
+    "imageCard": null,
     "description": "The Mexican Mule is a tequila-based variation of the classic Moscow Mule, substituting vodka with the agave spirit for a more complex, earthy flavor profile. This refreshing cocktail combines the bright citrus notes of fresh lime juice with the spicy kick of ginger beer, balanced by a touch of sweet agave nectar. Traditionally served in a copper mug which keeps the drink ice cold, the Mexican Mule is garnished with a sprig of rosemary that adds an aromatic herbal note. It's perfect for warm weather gatherings or whenever you want a refreshing cocktail with a bit of a kick.",
     "ingredientGroups": [
       {
@@ -2256,6 +2277,7 @@
     "strength": 8,
     "taste": 4,
     "image": null,
+    "imageCard": null,
     "description": "The Old Fashioned is one of the oldest and most revered cocktails in existence, dating back to the early 1800s. This timeless classic showcases the rich flavors of whiskey (traditionally bourbon or rye) with just a touch of sweetness, aromatic bitters, and citrus oil. The beauty of the Old Fashioned lies in its simplicity—it's essentially a perfect balance of spirit, sugar, and bitters. The drink has survived prohibition, changing tastes, and countless trends, cementing its place as the quintessential whiskey cocktail that every bartender should master.",
     "ingredientGroups": [
       {
@@ -2349,6 +2371,7 @@
     "strength": 7,
     "taste": 6,
     "image": null,
+    "imageCard": null,
     "description": "The Paper Plane is a modern classic cocktail created by bartender Sam Ross in 2007. Named after the M.I.A. song \"Paper Plane,\" this perfectly balanced cocktail features equal parts of four ingredients. It offers a complex flavor profile with bitter-sweet notes from the amaro and Aperol, warmth from the bourbon, and brightness from the fresh lemon juice.",
     "ingredientGroups": [
       {
@@ -2433,6 +2456,7 @@
     "strength": 4,
     "taste": 1,
     "image": null,
+    "imageCard": null,
     "description": "The Piña Colada is a classic tropical cocktail created in 1954 by Ramón \"Monchito\" Marrero at the Caribe Hilton in San Juan, Puerto Rico. After three months of experimentation, Marrero perfected this creamy, fruity blend of rum, coconut cream, and pineapple juice that he felt truly captured the flavors of Puerto Rico. The cocktail gained such popularity and cultural significance that in 1978, Puerto Rico officially named it the national drink. The name \"Piña Colada\" means \"strained pineapple\" in Spanish, referring to the fresh pineapple juice used in the recipe.",
     "ingredientGroups": [
       {
@@ -2536,6 +2560,7 @@
     "strength": null,
     "taste": null,
     "image": null,
+    "imageCard": null,
     "description": "Pumpkin Syrup is a versatile, seasonal ingredient that adds the warm, spiced flavors of autumn to cocktails and other beverages. This homemade syrup combines real pumpkin puree with aromatic spices like cinnamon, cloves, ginger, and nutmeg for an authentic fall flavor. Perfect for creating pumpkin spice martinis, old fashioneds, or adding a seasonal twist to coffee drinks. The syrup can be made in two different ways - a simpler version with pre-mixed pumpkin spice, or a from-scratch version using individual spices for more control over the flavor profile.",
     "ingredientGroups": [
       {
@@ -2681,6 +2706,7 @@
     "strength": 4,
     "taste": 3,
     "image": null,
+    "imageCard": null,
     "description": "The Ramos Gin Fizz is a legendary New Orleans cocktail created in the 1880s by Henry C. Ramos. This ethereal and strangely light cocktail combines gin and citrus with cream and soda, plus an elusive touch of orange blossom water. What makes this drink truly special is its silky, frothy texture achieved through extensive shaking—originally, Ramos called for an incredible 12 minutes of shaking, with New Orleans bars of the time enlisting teams of \"shaker boys\" who would pass each shaker down the line. Today, it's something of a joke in bartending circles: If you want to annoy a bartender, order a Ramos Gin Fizz, especially if they're working a crowd three-deep.",
     "ingredientGroups": [
       {
@@ -2818,6 +2844,7 @@
     "strength": 3,
     "taste": 7,
     "image": null,
+    "imageCard": null,
     "description": "Ranch Water is a refreshing, minimalist cocktail that originated in West Texas and has gained popularity throughout the Southwest. This simple yet satisfying drink combines blanco tequila, fresh lime juice, and Topo Chico mineral water for a clean, crisp, and effervescent experience. The beauty of Ranch Water lies in its straightforward preparation and light, thirst-quenching quality, making it perfect for hot summer days. While the recipe is incredibly simple, the specific use of Topo Chico—a Mexican mineral water known for its intense carbonation and mineral content—is what gives this cocktail its distinctive character.",
     "ingredientGroups": [
       {
@@ -2923,6 +2950,7 @@
     "strength": null,
     "taste": null,
     "image": null,
+    "imageCard": null,
     "description": "Rich Demerara Syrup is a premium sweetener used in craft cocktails to add depth, complexity, and a subtle molasses-like flavor. Unlike regular simple syrup made with white sugar, demerara syrup uses unrefined demerara sugar, which retains more of its natural molasses content. The \"rich\" in the name refers to the 2:1 sugar-to-water ratio, creating a thicker, more concentrated syrup that adds sweetness without diluting your cocktails as much. This syrup is particularly excellent in aged spirit cocktails like Old Fashioneds, Manhattans, and rum drinks, where its caramel notes complement the wood-aged flavors.",
     "ingredientGroups": [
       {
@@ -3004,6 +3032,7 @@
     "strength": 3,
     "taste": 6,
     "image": null,
+    "imageCard": null,
     "description": "The Spaghett is a modern, low-effort cocktail that combines the simplicity of beer with the sophisticated bitterness of Aperol and brightness of fresh lemon juice. This unpretentious drink has gained popularity in craft cocktail circles for its accessibility and refreshing taste. The name \"Spaghett\" is a playful nod to the Italian aperitivo culture (Aperol being an Italian aperitif) combined with the casual nature of drinking beer. It's perfect for summer gatherings, backyard barbecues, or anytime you want something more interesting than a plain beer but don't want to fuss with complex cocktail preparation.",
     "ingredientGroups": [
       {
@@ -3082,6 +3111,7 @@
     "strength": null,
     "taste": null,
     "image": null,
+    "imageCard": null,
     "description": null,
     "ingredientGroups": [
       {
@@ -3173,6 +3203,7 @@
     "strength": 6,
     "taste": 3,
     "image": null,
+    "imageCard": null,
     "description": "\"The Dude Imbibes\" is a sophisticated take on the classic White Russian, created by master cocktail craftsman Allen Lancaster at The Bar at The Spectator Hotel in Charleston, South Carolina. This 1920s speakeasy-inspired lounge pays homage to The Dude from the cult film \"The Big Lebowski,\" who drinks White Russians in nearly every scene. This elevated version features house-infused chai spice-vanilla vodka and unsweetened almond milk, poured over a large espresso coffee liqueur ice cube that gradually melts and transforms the drink as you sip it. The result is a complex, evolving cocktail that starts strong and gradually becomes more coffee-forward and diluted to perfection.",
     "ingredientGroups": [
       {
@@ -3264,6 +3295,7 @@
     "strength": 4,
     "taste": 5,
     "image": null,
+    "imageCard": null,
     "description": "The Tom Collins is a classic cocktail dating back to the 1870s, named after what may have been an elaborate practical joke that swept New York and Philadelphia. This refreshing, tall drink combines gin, fresh lemon juice, and sugar, topped with soda water for a bright, effervescent finish. Often described as a \"sparkling gin lemonade,\" the Tom Collins is the perfect balance of sweet, sour, and spirit, making it an enduring favorite for warm weather. Its simplicity and refreshing character have made it a staple in cocktail culture for over 150 years, spawning numerous variations and inspiring an entire category of \"Collins\" drinks.",
     "ingredientGroups": [
       {
@@ -3378,6 +3410,7 @@
     "strength": 9,
     "taste": 8,
     "image": null,
+    "imageCard": null,
     "description": "The Vesper Martini is a sophisticated cocktail with a literary pedigree, famously created by author Ian Fleming for his character James Bond in the 1953 novel \"Casino Royale.\" Bond orders this drink with the precise instructions: \"Three measures of Gordon's, one of vodka, half a measure of Kina Lillet. Shake it very well until it's ice-cold, then add a large thin slice of lemon peel.\" The cocktail was named after the novel's female lead, Vesper Lynd. Unlike a traditional martini, the Vesper combines both gin and vodka with Lillet Blanc (which replaced the original Kina Lillet when it was discontinued). This creates a smooth yet potent cocktail with subtle herbal and citrus notes. While Bond famously preferred his \"shaken, not stirred,\" most bartenders recommend stirring to achieve the silky texture expected of a proper martini.",
     "ingredientGroups": [
       {
@@ -3481,6 +3514,7 @@
     "strength": 1,
     "taste": 1,
     "image": null,
+    "imageCard": null,
     "description": "The Virgin Piña Colada is a non-alcoholic version of the classic tropical cocktail, offering all the creamy, fruity goodness without the rum. This frozen treat combines the rich sweetness of cream of coconut with tangy pineapple and a hint of lime for balance. The addition of rum extract provides a subtle flavor reminiscent of the original cocktail without the alcohol. Perfect for those who don't drink alcohol, designated drivers, pregnant women, or anyone who wants to enjoy a tropical vacation in a glass without the boozy effects. This refreshing frozen drink is ideal for hot summer days, pool parties, or whenever you want to feel like you're relaxing on a Caribbean beach.",
     "ingredientGroups": [
       {
@@ -3598,6 +3632,7 @@
     "strength": 3,
     "taste": 4,
     "image": null,
+    "imageCard": null,
     "description": "The Watermelon Cocktail is a simple, refreshing two-ingredient summer drink that pairs fresh watermelon juice with crisp, dry prosecco. The natural sweetness of the watermelon balances the bubbly, slightly tart prosecco, producing a light and easy-drinking cocktail that's ideal for poolside afternoons, brunch, or any warm-weather gathering. A squeeze of lime adds brightness, and a touch of simple syrup turns it into a proper \"Watermelon Spritz\" with a sweet-and-sour profile. Read more at [The Takeout](https://www.thetakeout.com/2173212/watermelon-two-ingredient-summer-cocktail/).",
     "ingredientGroups": [
       {
@@ -3719,6 +3754,7 @@
     "strength": 7,
     "taste": 7,
     "image": null,
+    "imageCard": null,
     "description": "The White Lady is a classic cocktail that dates back to the 1920s, with its creation often attributed to Harry MacElhone, first at Ciro's Club in London and later at Harry's New York Bar in Paris. This elegant, pale cocktail is essentially a gin-based sidecar with the addition of egg white for a silky texture and frothy top. The combination of gin, orange liqueur, fresh lemon juice, and egg white creates a perfectly balanced drink that is simultaneously strong, citrusy, and smooth. The White Lady has stood the test of time as a sophisticated classic that showcases the art of proper cocktail technique, particularly the dry shake method that creates its signature foam.",
     "ingredientGroups": [
       {
@@ -3834,6 +3870,7 @@
     "strength": 5,
     "taste": 3,
     "image": null,
+    "imageCard": null,
     "description": "The Wisconsin Old Fashioned is a regional variation of the classic Old Fashioned cocktail that has become deeply embedded in the state's drinking culture. Unlike the traditional whiskey-based version, the Wisconsin Old Fashioned typically uses brandy (often Korbel) as its base spirit, a preference that dates back to the 1893 World's Columbian Exposition in Chicago, where many German-Wisconsin residents were introduced to California brandy. This version is also distinguished by its muddled fruit (orange and cherry), sugar cube soaked in bitters, and the option to finish it \"sweet\" (with lemon-lime soda), \"sour\" (with sour mix or grapefruit soda), or \"press\" (with half lemon-lime soda and half seltzer). The Wisconsin Old Fashioned is more than just a cocktail—it's a cultural institution found in supper clubs and taverns throughout the state.",
     "ingredientGroups": [
       {
