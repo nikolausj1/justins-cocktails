@@ -1,0 +1,3945 @@
+[
+  {
+    "slug": "aperol-sour",
+    "sourceFile": "Aperol Sour.md",
+    "title": "Aperol Sour",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "aperol",
+      "gin",
+      "sour",
+      "eggwhite",
+      "bitter"
+    ],
+    "glassware": "Coupe",
+    "storage": null,
+    "strength": 5,
+    "taste": 8,
+    "image": null,
+    "description": "The Aperol Sour is a vibrant and balanced cocktail that combines the bitter-sweet profile of Aperol with the botanical notes of gin, brightened by fresh lemon juice and smoothed with egg white for a silky texture. This refreshing drink is perfect for aperitivo hour or summer gatherings.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Aperol",
+            "role": "required",
+            "canonical": [
+              "aperol"
+            ]
+          },
+          {
+            "raw": "1 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "1 oz Lemon Juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Simple Syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "0.5 oz Egg White",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Bitters (for garnish)",
+            "role": "garnish",
+            "canonical": [
+              "angostura-bitters"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "paper-plane",
+        "label": "Paper Plane"
+      },
+      {
+        "slug": "white-lady",
+        "label": "White Lady"
+      },
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Aperol\n- 1 oz Gin\n- 1 oz Lemon Juice\n- 0.5 oz Simple Syrup\n- 0.5 oz Egg White\n- Bitters (for garnish)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine Aperol, gin, lemon juice, simple syrup, and egg white in a cocktail shaker without ice.\n2. Shake for about 15 seconds (dry shake).\n3. Add ice and shake for a further 20 seconds.\n4. Strain into a chilled coupe glass.\n5. Garnish with three drops of bitters and a lemon twist."
+      },
+      {
+        "heading": "Variations/Adaptations",
+        "kind": "other",
+        "md": "- Play with the ratios between the Aperol and Gin.\n- Try 2 oz Aperol, 1 oz Gin, 1 oz Simple Syrup, 1 oz egg white for a sweeter variation."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "asadero-margarita",
+    "sourceFile": "Asadero Margarita.md",
+    "title": "Asadero Margarita",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "margarita",
+      "summer"
+    ],
+    "glassware": "Rocks glass (salt rim optional)",
+    "storage": null,
+    "strength": 8,
+    "taste": 7,
+    "image": null,
+    "description": "The Asadero Margarita is a signature cocktail from the Ballard Restaurant Asadero, known for its bold tequila flavor and perfect balance of sweet and sour. This margarita features a higher ratio of tequila to mixers than traditional recipes, creating a stronger, more spirit-forward cocktail that pairs perfectly with the restaurant's Mexican-inspired cuisine.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "4 oz Tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "2 oz Lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "1 oz Agave nectar",
+            "role": "required",
+            "canonical": [
+              "agave-nectar"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "fluffy-margarita",
+        "label": "Fluffy Margarita"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 4 oz Tequila\n- 2 oz Lime juice\n- 1 oz Agave nectar"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. If desired, rim a rocks glass with salt by rubbing a lime wedge around the rim and dipping in salt.\n2. Fill a cocktail shaker with ice.\n3. Add tequila, fresh lime juice, and agave nectar to the shaker.\n4. Shake vigorously until well-chilled, about 15 seconds.\n5. Strain into the prepared glass over fresh ice.\n6. Garnish with a lime wheel or wedge (optional)."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "It's worth mentioning that you want to look for really juicy limes. In general, paler green limes and those with yellow spots, as well as those with thin skin are juicier than darker-skinned limes or those with thicker skin. Medium/large limes seem to release their juice easier than small limes."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "brady-alexander",
+    "sourceFile": "Brady Alexander.md",
+    "title": "Brady Alexander",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": null,
+    "servings": "1 serving",
+    "tags": [
+      "cognac",
+      "brandy",
+      "dessert",
+      "sweet",
+      "creamy",
+      "chocolate",
+      "winter",
+      "classic"
+    ],
+    "glassware": "Coupe or cocktail glass",
+    "storage": null,
+    "strength": 5,
+    "taste": 1,
+    "image": null,
+    "description": "The Brady Alexander is a play on the classic Brandy Alexander cocktail, a rich and creamy dessert drink that gained popularity in the early 20th century. This indulgent cocktail combines the warmth of cognac with the sweet chocolate notes of crème de cacao, all smoothed out with cream. It's perfect as an after-dinner drink or a luxurious nightcap on a cold evening.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 1/2 ounces Cognac",
+            "role": "required",
+            "canonical": [
+              "cognac"
+            ]
+          },
+          {
+            "raw": "1 ounce Dark crème de cacao",
+            "role": "required",
+            "canonical": [
+              "creme-de-cacao"
+            ]
+          },
+          {
+            "raw": "1 ounce Half and half (or cream)",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "Garnish: Freshly grated nutmeg",
+            "role": "garnish",
+            "canonical": [
+              "nutmeg"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      },
+      {
+        "slug": "white-lady",
+        "label": "White Lady"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 1/2 ounces Cognac\n- 1 ounce Dark crème de cacao\n- 1 ounce Half and half (or cream)\n- Garnish: Freshly grated nutmeg"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Add cognac, dark crème de cacao and cream into a shaker with ice.\n2. Shake until well-chilled, about 15 seconds.\n3. Strain into a chilled cocktail glass or a coupe glass.\n4. Garnish with freshly grated nutmeg."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "classic-margarita-joey-in-university-village",
+    "sourceFile": "Joey’s Classic Margarita (Joey in University Village).md",
+    "title": "Classic Margarita (Joey in University Village)",
+    "status": "tested",
+    "dateAdded": "Sun Apr 13 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "margarita"
+    ],
+    "glassware": "Lowball glass",
+    "storage": null,
+    "strength": 6,
+    "taste": 7,
+    "image": null,
+    "description": "This Classic Margarita is served at Joey Kitchen in University Village, Seattle. It features a perfect balance of blanco tequila and lime, with egg white creating a distinctive frothy foam on top. Served in a lowball glass with a salted rim, the presentation is simple yet elegant, with a lime wedge garnish that adds a pop of color and a hint of extra citrus aroma. The cane syrup adds a subtle depth of sweetness compared to regular simple syrup. This refreshing cocktail is a staple at Joey's, known for its consistent quality and elevated take on the traditional margarita.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.25 oz Blanco tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "1 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "1 oz egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "0.25 oz Cointreau",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "0.50 oz cane syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "Garnish: Lime wedge",
+            "role": "garnish",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "Garnish: Salt for rimming",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "fluffy-margarita",
+        "label": "Fluffy Margarita"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.25 oz Blanco tequila\n- 1 oz Fresh lime juice\n- 1 oz egg white \n- 0.25 oz Cointreau\n- 0.50 oz cane syrup\n- Garnish: Lime wedge\n- Garnish: Salt for rimming"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Prepare the glass by running a lime wedge around the rim and dipping in salt.\n2. Add blanco tequila, fresh lime juice, triple sec, cane syrup, and egg white to a cocktail shaker without ice (dry shake).\n3. Shake vigorously for about 15 seconds to emulsify the egg white and create foam.\n4. Add ice to the shaker and shake again until well-chilled.\n5. Fill the prepared lowball glass with fresh ice.\n6. Strain the cocktail into the glass, allowing the frothy foam to settle on top.\n7. Garnish with a lime wedge."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The egg white creates the signature frothy foam on top of this cocktail. The dry shake (without ice) followed by a shake with ice is key to achieving the perfect texture. If you have concerns about raw egg, you could substitute with aquafaba (chickpea liquid) as an alternative.\n\nCane syrup provides a richer sweetness than regular simple syrup, complementing the tequila and lime perfectly. Joey Kitchen at University Village is known for their consistent cocktails and vibrant atmosphere. This margarita is one of their signature drinks that pairs well with their diverse menu."
+      },
+      {
+        "heading": "Source",
+        "kind": "source",
+        "md": "[Joey Kitchen at University Village, Seattle](https://www.yelp.com/biz/joey-kitchen-at-university-village-seattle-2)"
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "cucumber-chill",
+    "sourceFile": "Cucumber Chill.md",
+    "title": "Cucumber Chill",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "cucumber",
+      "summer"
+    ],
+    "glassware": "Rocks glass or highball",
+    "storage": null,
+    "strength": 4,
+    "taste": 6,
+    "image": null,
+    "description": "The Cucumber Chill is a signature cocktail from the Jean-Michel Cousteau Resort in Fiji, one of the world's first eco-luxury hotels. Described as \"like a classic Pimm's without the frills,\" this refreshing drink showcases the clean, crisp flavors of cucumber and lime paired with botanical gin. The addition of sugarcane juice adds a subtle sweetness that's perfect for sipping on a hot day by the beach.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.5 oz Hendrick's gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "2 oz Cucumber juice",
+            "role": "required",
+            "canonical": [
+              "cucumber"
+            ]
+          },
+          {
+            "raw": "0.5 oz Lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.5 oz Sugarcane juice",
+            "role": "required",
+            "canonical": [
+              "sugarcane-juice"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "tom-collins",
+        "label": "Tom Collins"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.5 oz Hendrick's gin\n- 2 oz Cucumber juice\n- 0.5 oz Lime juice\n- 0.5 oz Sugarcane juice"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine gin with lime, cucumber, and sugarcane juices in a cocktail shaker.\n2. Add ice and shake until well-chilled.\n3. Strain into a glass filled with fresh ice.\n4. Garnish with a cucumber slice or spear (optional)."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The resort uses local Fiji limes and organic mint and cucumber for an authentic tropical flavor. If sugarcane juice is unavailable, you can substitute with simple syrup made from raw sugar."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "collins"
+  },
+  {
+    "slug": "dukes-imperfect-marg",
+    "sourceFile": "Dukes Imperfect Marg.md",
+    "title": "Dukes Imperfect Marg",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "cointreau",
+      "margarita"
+    ],
+    "glassware": "Martini glass with salt rim",
+    "storage": null,
+    "strength": 6,
+    "taste": 5,
+    "image": null,
+    "description": "The Dukes Imperfect Marg is a simplified take on the classic margarita, featuring reposado tequila for a smoother, slightly aged flavor profile. This \"imperfect\" version uses a sweet and sour mix rather than separate lime juice and simple syrup, making it quick and easy to prepare while still delivering the bright, tangy flavor that margarita lovers crave.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.5 oz Casadores Reposado tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-reposado"
+            ]
+          },
+          {
+            "raw": "0.5 oz Cointreau",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "Sweet & sour mix (equal parts lime juice and sugar)",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "fluffy-margarita",
+        "label": "Fluffy Margarita"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.5 oz Casadores Reposado tequila\n- 0.5 oz Cointreau\n- Sweet & sour mix (equal parts lime juice and sugar)\n\n**Glassware:** Martini glass with salt rim"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Prepare a martini glass by running a lime wedge around the rim and dipping in salt.\n2. Fill a cocktail shaker with ice.\n3. Add tequila, Cointreau, and sweet & sour mix to the shaker.\n4. Shake vigorously until well-chilled.\n5. Strain into the prepared martini glass.\n6. Garnish with a lime wedge on a stick."
+      },
+      {
+        "heading": "Sweet & Sour Mix",
+        "kind": "other",
+        "md": "1. Combine equal parts freshly squeezed lime juice and sugar.\n2. Stir until sugar is completely dissolved.\n3. Store in a sealed container in the refrigerator for up to one week."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "martini"
+  },
+  {
+    "slug": "espresso-martini",
+    "sourceFile": "Espresso Martini.md",
+    "title": "Espresso Martini",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "vodka",
+      "coffee",
+      "espresso",
+      "kahlua",
+      "dessert"
+    ],
+    "glassware": "Martini glass",
+    "storage": null,
+    "strength": 6,
+    "taste": 3,
+    "image": null,
+    "description": "The Espresso Martini is a sophisticated, coffee-flavored cocktail that perfectly balances the boldness of fresh espresso with the smoothness of vodka and coffee liqueur. Created in the 1980s by London bartender Dick Bradsell, this iconic drink has enjoyed a resurgence in popularity in recent years. The combination of caffeine and alcohol makes it the perfect pick-me-up for a night out or an after-dinner treat. The traditional garnish of three coffee beans represents health, wealth, and happiness.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 oz Kahlua coffee liqueur",
+            "role": "required",
+            "canonical": [
+              "coffee-liqueur"
+            ]
+          },
+          {
+            "raw": "1 oz Vodka",
+            "role": "required",
+            "canonical": [
+              "vodka"
+            ]
+          },
+          {
+            "raw": "1 oz Freshly brewed espresso",
+            "role": "required",
+            "canonical": [
+              "espresso"
+            ]
+          },
+          {
+            "raw": "0.25 oz Simple syrup (1:1 sugar:water)",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "Garnish: 3 coffee beans",
+            "role": "garnish",
+            "canonical": [
+              "espresso"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-espresso-martini",
+        "label": "Justin's Espresso Martini"
+      },
+      {
+        "slug": "frozen-espresso-martini",
+        "label": "Frozen Espresso Martini"
+      },
+      {
+        "slug": "the-dude-imbibes",
+        "label": "The Dude Imbibes"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 oz Kahlua coffee liqueur\n- 1 oz Vodka\n- 1 oz Freshly brewed espresso\n- 0.25 oz Simple syrup (1:1 sugar:water)\n- Garnish: 3 coffee beans\n\n**Glassware:** Martini glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Brew a shot of espresso and allow it to cool slightly.\n2. Combine coffee liqueur, vodka, espresso, and simple syrup in a cocktail shaker filled with ice.\n3. Shake vigorously until well-chilled, about 15-20 seconds.\n4. Strain into a chilled martini glass.\n5. Garnish with three coffee beans arranged in a triangle."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Variations/Adaptations",
+        "kind": "other",
+        "md": "**Vanilla Espresso Martini**: Add a few drops of vanilla extract or use vanilla-infused vodka.\n\n**Chocolate Espresso Martini**: Add a small amount of chocolate liqueur or a dash of chocolate bitters.\n\n**Iced Espresso Martini**: Serve over ice in a rocks glass for a more refreshing version."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The three coffee beans traditionally used to garnish an Espresso Martini represent health, wealth, and happiness.\n\nFor the best results, use freshly brewed espresso that has cooled slightly rather than hot espresso, which can melt the ice too quickly and dilute the drink.\n\nIf you don't have an espresso machine, you can use strong cold brew coffee concentrate as a substitute."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "martini"
+  },
+  {
+    "slug": "fluffy-margarita",
+    "sourceFile": "Fluffy Margarita.md",
+    "title": "Fluffy Margarita",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": null,
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "eggwhite",
+      "margarita",
+      "creamy"
+    ],
+    "glassware": "Coupe",
+    "storage": null,
+    "strength": 6,
+    "taste": 4,
+    "image": null,
+    "description": "The Fluffy Margarita is a luxurious twist on the classic margarita, incorporating egg white to create a silky, creamy texture with a beautiful frothy top. This elegant variation maintains the bright, tangy flavor profile of a traditional margarita but with a smoother mouthfeel and softer finish. The addition of cane sugar syrup instead of traditional simple syrup adds a subtle depth of flavor that complements the premium Casamigos blanco tequila.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Casamigos Blanco tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "1 oz Triple sec",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "1 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.5 oz Cane sugar syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "1 oz Egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Garnish: Lime wheel or salt rim (optional)",
+            "role": "garnish",
+            "canonical": [
+              "lime"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      },
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": null,
+        "kind": "other",
+        "md": "NO IMAGE"
+      },
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Casamigos Blanco tequila\n- 1 oz Triple sec\n- 1 oz Fresh lime juice\n- 0.5 oz Cane sugar syrup\n- 1 oz Egg white\n- Garnish: Lime wheel or salt rim (optional)\n\n**Glassware:** Coupe"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine tequila, triple sec, lime juice, cane sugar syrup, and egg white in a cocktail shaker without ice.\n2. Dry shake vigorously for about 15 seconds to emulsify the egg white.\n3. Add ice to the shaker and shake again for about 20 seconds until well-chilled.\n4. Strain into a chilled coupe glass.\n5. Garnish with a lime wheel or salt rim if desired."
+      },
+      {
+        "heading": "Cane Sugar Syrup",
+        "kind": "other",
+        "md": "1. Combine 2 parts raw cane sugar with 1 part water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "For a vegan alternative, you can substitute the egg white with aquafaba (the liquid from canned chickpeas), using the same amount (1 oz). This will create a similar foam and texture without using animal products.\n\nWhen working with raw egg white, always use the freshest eggs possible and be aware of the potential risks associated with consuming raw eggs."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "french-75",
+    "sourceFile": "French 75.md",
+    "title": "French 75",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "champagne",
+      "classic",
+      "sparkling",
+      "citrus"
+    ],
+    "glassware": "Champagne flute",
+    "storage": null,
+    "strength": 6,
+    "taste": 5,
+    "image": null,
+    "description": "The French 75 is a classic cocktail dating back to World War I, named after the French 75mm field gun for its similar kick. This elegant and refreshing drink combines the botanical notes of gin with bright lemon, a touch of sweetness, and the effervescence of champagne. The result is a sophisticated, celebratory cocktail perfect for special occasions, brunches, or whenever you want to add a touch of sparkle to your day.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "3 oz Champagne or sparkling wine",
+            "role": "required",
+            "canonical": [
+              "sparkling-wine"
+            ]
+          },
+          {
+            "raw": "Garnish: Lemon twist or peel",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      }
+    ],
+    "video": "Viz7yWfcmdo",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 oz Gin\n- 0.5 oz Fresh lemon juice\n- 0.5 oz Simple syrup\n- 3 oz Champagne or sparkling wine\n- Garnish: Lemon twist or peel\n\n**Glassware:** Champagne flute"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine gin, lemon juice, and simple syrup in a cocktail shaker filled with ice.\n2. Shake vigorously until well-chilled, about 15 seconds.\n3. Strain into a chilled champagne flute.\n4. Top slowly with champagne or sparkling wine.\n5. Garnish with a lemon twist or peel."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The original French 75 recipe featured in the video:\n<youtube data-id=\"Viz7yWfcmdo\"></youtube>\n\nFor a variation, you can substitute cognac for gin to create what some call the \"French 95\" - a richer, warmer version of the classic cocktail that's especially nice in colder months."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "flute"
+  },
+  {
+    "slug": "frozen-espresso-martini",
+    "sourceFile": "Frozen Espresso Martini.md",
+    "title": "Frozen Espresso Martini",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "rum",
+      "kahlua",
+      "coffee",
+      "espresso",
+      "frozen",
+      "dessert",
+      "creamy"
+    ],
+    "glassware": "Chilled cocktail glass or coupe",
+    "storage": null,
+    "strength": 5,
+    "taste": 2,
+    "image": null,
+    "description": "This icy expression of the espresso martini was created by Jason Hedges, Beverage Director at Laurent Tourondel Hospitality and co-founder of Bar-IQ. It's a frozen, creamy twist on the classic espresso martini, substituting dark rum for vodka and adding heavy cream for a richer texture. Simple to make but seriously delicious, this frozen cocktail is perfect for coffee lovers looking for a refreshing dessert drink, especially during warmer months.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Dark rum",
+            "role": "required",
+            "canonical": [
+              "rum-dark"
+            ]
+          },
+          {
+            "raw": "1 oz Kahlua",
+            "role": "required",
+            "canonical": [
+              "coffee-liqueur"
+            ]
+          },
+          {
+            "raw": "1 oz Fresh espresso",
+            "role": "required",
+            "canonical": [
+              "espresso"
+            ]
+          },
+          {
+            "raw": "1 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "1 oz Heavy cream",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "1 cup Ice",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "Garnish: Fresh whipped cream and cocoa nibs",
+            "role": "garnish",
+            "canonical": [
+              "cream"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      },
+      {
+        "slug": "pina-colada",
+        "label": "Piña Colada"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Dark rum\n- 1 oz Kahlua\n- 1 oz Fresh espresso\n- 1 oz Simple syrup\n- 1 oz Heavy cream\n- 1 cup Ice\n- Garnish: Fresh whipped cream and cocoa nibs\n\n**Glassware:** Chilled cocktail glass or coupe"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Brew a fresh espresso shot and let it cool completely.\n2. In a blender, add the rum, Kahlua, cooled espresso, simple syrup, heavy cream, and ice.\n3. Blend the ingredients until smooth and creamy.\n4. Taste the mixture and adjust the sweetness or coffee flavor if needed.\n5. Pour the mixture into chilled cocktail glasses.\n6. Top with fresh whipped cream and sprinkle with cocoa nibs for garnish."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "For the best texture, make sure your espresso is completely cooled before blending. You can even refrigerate it for 15-20 minutes to chill it further.\n\nIf you prefer a thicker frozen drink, you can freeze the espresso in an ice cube tray ahead of time and use those instead of regular ice."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "gin-fizz",
+    "sourceFile": "Gin Fizz.md",
+    "title": "Gin Fizz",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "cream",
+      "eggwhite",
+      "fizz",
+      "classic"
+    ],
+    "glassware": "Collins glass",
+    "storage": null,
+    "strength": 5,
+    "taste": 5,
+    "image": null,
+    "description": "The Gin Fizz is a classic cocktail that dates back to the late 19th century, gaining popularity during the Prohibition era. This frothy, refreshing drink combines the botanical notes of gin with bright citrus, a touch of sweetness, and a silky texture from egg white and cream. The addition of orange blossom water adds a subtle floral aroma, while the soda water creates the signature fizz that gives this cocktail its name. The Gin Fizz is perfect for brunch or as a light, refreshing cocktail any time of day.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "0.75 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.5 oz Cream",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "1 Egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "3 dashes Orange blossom water",
+            "role": "required",
+            "canonical": [
+              "orange-blossom-water"
+            ]
+          },
+          {
+            "raw": "Soda water (to top)",
+            "role": "required",
+            "canonical": [
+              "soda-water"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "ramos-gin-fizz",
+        "label": "Ramos Gin Fizz"
+      },
+      {
+        "slug": "tom-collins",
+        "label": "Tom Collins"
+      },
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Gin\n- 0.75 oz Simple syrup\n- 0.5 oz Fresh lemon juice\n- 0.5 oz Fresh lime juice\n- 0.5 oz Cream\n- 1 Egg white\n- 3 dashes Orange blossom water\n- Soda water (to top)\n\n**Glassware:** Collins glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine gin, simple syrup, lemon juice, lime juice, cream, egg white, and orange blossom water in a cocktail shaker without ice.\n2. Dry shake vigorously for about 15 seconds to emulsify the egg white.\n3. Add ice to the shaker and shake again for about 20 seconds until well-chilled.\n4. Strain into a collins glass without ice.\n5. Slowly top with soda water, allowing the foam to rise above the rim of the glass.\n6. Serve immediately."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "When working with raw egg white, always use the freshest eggs possible and be aware of the potential risks associated with consuming raw eggs.\n\nFor a vegan alternative, you can substitute the egg white with aquafaba (the liquid from canned chickpeas), using about 1 oz."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "collins"
+  },
+  {
+    "slug": "gin-sour",
+    "sourceFile": "Gin Sour.md",
+    "title": "Gin Sour",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "eggwhite",
+      "sour",
+      "classic"
+    ],
+    "glassware": "Coupe glass",
+    "storage": null,
+    "strength": 6,
+    "taste": 7,
+    "image": null,
+    "description": "The Gin Sour is a classic cocktail that follows the traditional sour template of spirit, citrus, and sweetener. This elegant drink showcases the botanical flavors of London dry gin, balanced by the bright acidity of fresh lemon juice and a touch of sweetness from simple syrup. The optional addition of egg white creates a silky texture and frothy top that's both visually appealing and adds a luxurious mouthfeel. A few drops of Angostura bitters on top not only add a decorative touch but also contribute subtle aromatic spice notes.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz London dry gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "1 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "0.5 oz Egg white or aquafaba (optional)",
+            "role": "optional",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Garnish: Lemon twist (optional)",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "Garnish: 3 drops Angostura bitters (optional)",
+            "role": "garnish",
+            "canonical": [
+              "angostura-bitters"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-gin-sour",
+        "label": "Justin's Gin Sour"
+      },
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "white-lady",
+        "label": "White Lady"
+      },
+      {
+        "slug": "tom-collins",
+        "label": "Tom Collins"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz London dry gin\n- 1 oz Fresh lemon juice\n- 0.5 oz Simple syrup\n- 0.5 oz Egg white or aquafaba (optional)\n- Garnish: Lemon twist (optional)\n- Garnish: 3 drops Angostura bitters (optional)\n\n**Glassware:** Coupe glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Add the gin, lemon juice, simple syrup, and egg white (if using) into a cocktail shaker without ice.\n2. Vigorously dry-shake for about 15 seconds to emulsify the egg white.\n3. Add ice and shake again until well-chilled, about 15 seconds.\n4. Strain into a coupe glass.\n5. Decorate the frothy top with 3 to 5 drops of Angostura bitters if desired.\n6. Garnish with a lemon twist if desired."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "When working with raw egg white, always use the freshest eggs possible and be aware of the potential risks associated with consuming raw eggs.\n\nFor a vegan alternative, aquafaba (the liquid from canned chickpeas) works well as an egg white substitute, creating a similar foam and texture."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "harry-potter-butterbeer",
+    "sourceFile": "Harry Potter Butterbeer.md",
+    "title": "Harry Potter Butterbeer",
+    "status": "tested",
+    "dateAdded": "Wed May 07 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Non-Alcoholic",
+    "servings": "8 servings",
+    "tags": [
+      "na",
+      "kids"
+    ],
+    "glassware": "Mugs (preferably glass mugs with handles for the authentic experience)",
+    "storage": null,
+    "strength": 0,
+    "taste": 0,
+    "image": null,
+    "description": "This magical non-alcoholic Butterbeer recipe tastes just like the famous drink served at the Wizarding World of Harry Potter in Universal Studios. With its creamy butterscotch flavor and frothy topping, it's a perfect treat for young wizards and muggles alike. This no-cook method is incredibly easy to make, making it ideal for Harry Potter movie marathons, themed parties, or whenever you want to bring a touch of magic to your day. A possible favorite of Chase and Vinny who are huge Harry Potter fans!",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 liters cream soda, chilled",
+            "role": "required",
+            "canonical": [
+              "cream-soda"
+            ]
+          },
+          {
+            "raw": "¼ teaspoon [Caramel Extract](http://amzn.to/2u3NHsD)",
+            "role": "required",
+            "canonical": [
+              "caramel-extract"
+            ]
+          },
+          {
+            "raw": "¼ teaspoon [Butter Extract](http://amzn.to/2vDpiZM)",
+            "role": "required",
+            "canonical": [
+              "butter-extract"
+            ]
+          }
+        ]
+      },
+      {
+        "label": "For the Butterscotch Cream Topping",
+        "items": [
+          {
+            "raw": "1 cup heavy whipping cream",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "½ cup butterscotch topping",
+            "role": "required",
+            "canonical": [
+              "butterscotch-topping"
+            ]
+          },
+          {
+            "raw": "¼ cup powdered sugar",
+            "role": "required",
+            "canonical": [
+              "powdered-sugar"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "virgin-pina-colada",
+        "label": "Virgin Piña Colada"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 liters cream soda, chilled\n- ¼ teaspoon [Caramel Extract](http://amzn.to/2u3NHsD)\n- ¼ teaspoon [Butter Extract](http://amzn.to/2vDpiZM)\n\n### For the Butterscotch Cream Topping\n- 1 cup heavy whipping cream\n- ½ cup butterscotch topping\n- ¼ cup powdered sugar\n\n**Glassware:** Mugs (preferably glass mugs with handles for the authentic experience)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. In a large pitcher, mix the cream soda with the caramel and butter extracts. Set aside.\n2. In a large mixing bowl, use an electric mixer to whip heavy cream until it forms stiff peaks.\n3. Add butterscotch topping and powdered sugar to the whipped cream. Mix to combine.\n4. Pour the soda mixture into clear mugs, leaving room at the top for the cream topping.\n5. Pipe or spoon the butterscotch cream topping over the butterbeer.\n6. Serve immediately and enjoy!"
+      },
+      {
+        "heading": "Equipment",
+        "kind": "other",
+        "md": "- Hand mixer or stand mixer\n- Large pitcher\n- Mixing bowl\n- Butterbeer mugs (glass mugs with handles)\n- Piping bags (optional, for a more professional presentation)"
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "- For a simplified version, you can just use plain cream soda without the extracts. It's not quite as authentic but still tastes delicious.\n- The butterscotch cream topping can be made ahead of time and stored in the refrigerator for up to 24 hours.\n- For an extra special presentation, drizzle additional butterscotch topping over the cream.\n- This recipe is perfect for Harry Potter movie marathons or themed birthday parties.\n\n### Pictorial Instructions\n\n- In a [large pitcher](https://www.walmart.com/ip/Rubbermaid-Simply-Pour-Clear-Red-Pitcher-Plastic-1-gal/131012355?aflt=cse), mix the cream soda with the caramel and butter extracts. Set aside.\n\n- In a large [mixing bowl](https://www.target.com/p/set-of-3-plastic-mixing-bowl-set-with-lids-figmint/-/A-91744362?aflt=cse), use an electric mixer to whip heavy cream until it forms stiff peaks.\n- \n\n- Add butterscotch topping and powdered sugar. Mix to combine.\n\n- Pour the soda mixture into clear cups or mugs. \n- Pipe butterscotch cream topping over the butterbeer.\n\n- Serve and enjoy!"
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "mug"
+  },
+  {
+    "slug": "justins-espresso-martini",
+    "sourceFile": "Justin's Espresso Martini.md",
+    "title": "Justin's Espresso Martini",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": null,
+    "servings": "2 servings",
+    "tags": [
+      "vodka",
+      "coffee",
+      "espresso",
+      "eggwhite",
+      "dessert",
+      "mr_black"
+    ],
+    "glassware": "Coupe glasses",
+    "storage": null,
+    "strength": 7,
+    "taste": 4,
+    "image": "/images/justins-espresso-martini.jpg",
+    "description": "This is my recipe... there are a lot of espresso martini recipes out there, but this is the best one. It involves just a little more work to make it great. So don't skimp out. Do the work.\n\nThis recipe yields two martini glasses. \n\nThe mixing technique is called a reverse dry shake. For me, it yields the best creamiest foam on top of the drink to hold all the fun garnishes we add at the end.\n\nIf you've had a better espresso martini, let me know. So far, this is my favorite.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz [Mr. Black Cold Brew Coffee Liqueur](https://www.totalwine.com/spirits/liqueurscordialsschnapps/coffee/mr-black-cold-brew/p/220327750) (This is the secret ingredient. If you use Kahlua, it won't taste as good)",
+            "role": "required",
+            "canonical": [
+              "coffee-liqueur"
+            ]
+          },
+          {
+            "raw": "3 oz [Ketel One Vodka](https://www.amazon.com/Ketel-One-Vodka-750-Proof/dp/B00GIB086G/) (I prefer Ketel One, but you do have some wiggle room here... just make sure it's not cheap vodka)",
+            "role": "required",
+            "canonical": [
+              "vodka"
+            ]
+          },
+          {
+            "raw": "3 oz Dark roast espresso",
+            "role": "required",
+            "canonical": [
+              "espresso"
+            ]
+          },
+          {
+            "raw": "0.5 oz Rich Demerara syrup (2:1 sugar:water)",
+            "role": "required",
+            "canonical": [
+              "demerara-syrup"
+            ]
+          },
+          {
+            "raw": "1 oz Egg whites",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Garnish: [Dark chocolate bar](https://www.amazon.com/Theo-Dark-Chocolate-Sea-Salt/dp/B007YNPJS4) (around 70% dark chocolate)",
+            "role": "garnish",
+            "canonical": [
+              "chocolate"
+            ]
+          },
+          {
+            "raw": "Garnish: 6 [Whole espresso beans](https://www.amazon.com/Starbucks-Dark-Roast-Whole-Coffee/dp/B09369VYBL/)",
+            "role": "garnish",
+            "canonical": [
+              "espresso"
+            ]
+          },
+          {
+            "raw": "Garnish: [Fine sea salt](https://www.amazon.com/Alessi-Sea-Salt-Fine-24/dp/B00E3X81IS/)",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      },
+      {
+        "slug": "frozen-espresso-martini",
+        "label": "Frozen Espresso Martini"
+      },
+      {
+        "slug": "the-dude-imbibes",
+        "label": "The Dude Imbibes"
+      },
+      {
+        "slug": "justins-gin-sour",
+        "label": "Justin's Gin Sour"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz [Mr. Black Cold Brew Coffee Liqueur](https://www.totalwine.com/spirits/liqueurscordialsschnapps/coffee/mr-black-cold-brew/p/220327750) (This is the secret ingredient. If you use Kahlua, it won't taste as good)\n- 3 oz [Ketel One Vodka](https://www.amazon.com/Ketel-One-Vodka-750-Proof/dp/B00GIB086G/) (I prefer Ketel One, but you do have some wiggle room here... just make sure it's not cheap vodka)\n- 3 oz Dark roast espresso\n- 0.5 oz Rich Demerara syrup (2:1 sugar:water)\n- 1 oz Egg whites\n- Garnish: [Dark chocolate bar](https://www.amazon.com/Theo-Dark-Chocolate-Sea-Salt/dp/B007YNPJS4) (around 70% dark chocolate)\n- Garnish: 6 [Whole espresso beans](https://www.amazon.com/Starbucks-Dark-Roast-Whole-Coffee/dp/B09369VYBL/)\n- Garnish: [Fine sea salt](https://www.amazon.com/Alessi-Sea-Salt-Fine-24/dp/B00E3X81IS/)\n\n**Glassware:** Coupe glasses"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Make 3 ounces of espresso.\n2. Place espresso into the fridge/freezer to chill.\n3. Chill coupe glasses by filling them with ice and water.\n4. Grab a shaker tin, but DO NOT ADD ICE.\n5. Add Mr. Black, vodka, chilled espresso, demerara syrup, and egg white to the shaker tin.\n6. Cover the shaker tin and shake vigorously WITHOUT ice for at least 30 seconds (it will feel like a long time). This creates the good foam on top. So shake like hell!\n7. Add ice cubes to the shaker tin and shake again for 10 seconds. This brings your beautiful foamy cocktail to the correct temperature.\n8. Dump ice and water that have been chilling the coupe glasses.\n9. ~~Double strain into coupe glasses (using both a Hawthorne strainer and a fine mesh strainer).~~\n10. Grate chocolate on top of the drinks using a Microplane.\n11. Sprinkle a pinch of salt on top of each drink.\n12. Add three espresso beans to the top of each drink (they represent health, wealth, and happiness)."
+      },
+      {
+        "heading": "Rich Demerara Syrup (2:1)",
+        "kind": "other",
+        "md": "### Ingredients\n- 2 cups [Demerara sugar](https://www.amazon.com/India-Tree-Demerara-Sugar-Pantry/dp/B07XGD7G85/)\n- 1 cup Water\n\n### Directions\n1. Add water to a small pot.\n2. Add demerara sugar to pot.\n3. Bring sugar water to heat over medium to high heat.\n4. Turn off before it boils.\n5. Let cool before using.\n6. Store in a sealed container in the refrigerator for up to one month.\n\n*If you must buy instead of make, [this one from Jack Rudy](https://www.amazon.com/Cocktail-Demerara-2-Pack-Mixers-Desserts/dp/B07GX7P1C9) is a good one.*"
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "Your drink can only be as good as the quality of your ingredients, so don't skimp out. The Mr. Black Coffee Liqueur is truly the secret ingredient that makes this espresso martini stand out from others.\n\nSeparating the yolk from the egg per order will create the best cocktail, but you could use [store-bought egg whites](https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-cage-free-liquid-egg-whites-16-oz-b074h5m1pm) in a pinch.\n\nI prefer around 70% dark chocolate to keep it from getting too sweet. The pinch of salt adds a subtle contrast that elevates the entire drink.\n\n### Equipment Recommendations\n- [Shaker tin](https://www.amazon.com/gp/product/B073L557JF/)\n- [Hawthorne strainer](https://www.amazon.com/gp/product/B000H7VF64/)\n- [Mesh strainer](https://www.amazon.com/gp/product/B077SMHQYW/)\n- [Microplane](https://www.amazon.com/gp/product/B07V39LSRY/)\n- Coupe glasses\n\n### Reverse Dry Shake Technique\n- Put ingredients into shaker WITHOUT ice. Ingredients usually consist of some kind of citrus and egg white.\n- Shake vigorously (30 to 60 seconds) to create a meringue or thick foam.\n- Add ice to the tin.\n- Shake again for at least 10 seconds to bring the temperature of the cocktail to nice and cold.\n- Double strain into glass."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "justins-gin-sour",
+    "sourceFile": "Justin's Gin Sour.md",
+    "title": "Justin's Gin Sour",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "2 servings",
+    "tags": [
+      "gin",
+      "eggwhite",
+      "sour",
+      "hendricks"
+    ],
+    "glassware": "Coupe glasses",
+    "storage": null,
+    "strength": 6,
+    "taste": 9,
+    "image": "/images/justins-gin-sour.jpg",
+    "description": "Sheena’s Gin Sour is a personal take on the classic gin sour, featuring a carefully selected gin with citrus or coastal notes, fresh lemon juice, and a silky egg white foam.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "4 oz Gin (preferably with citrus or coastal notes, like Hendricks Neptunia)",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "2 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "1 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "1 oz Egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Angostura bitters (for garnish)",
+            "role": "garnish",
+            "canonical": [
+              "angostura-bitters"
+            ]
+          },
+          {
+            "raw": "Lemon twist (for garnish)",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "white-lady",
+        "label": "White Lady"
+      },
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "ramos-gin-fizz",
+        "label": "Ramos Gin Fizz"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 4 oz Gin (preferably with citrus or coastal notes, like Hendricks Neptunia)\n- 2 oz Fresh lemon juice\n- 1 oz Simple syrup\n- 1 oz Egg white\n- Angostura bitters (for garnish)\n- Lemon twist (for garnish)\n\n**Glassware:** Coupe glasses"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Chill coupe glasses by filling them with ice and water.\n2. Grab a shaker tin, but DO NOT ADD ICE.\n3. Add gin, lemon juice, simple syrup, and egg white to the shaker tin.\n4. Cover the shaker tin and shake vigorously WITHOUT ice for at least 30 seconds to create a good foam.\n5. Open shaker and add ice cubes, then shake again for 10 seconds to chill the cocktail.\n6. Dump ice and water from the coupe glasses.\n7. Strain into the coupe glasses.\n8. Add 5 small drops of bitters on top of the foam using an eye dropper.\n9. Take a toothpick and run it through the bitter drops to create a circle of hearts around the glass.\n10. Garnish with a lemon twist."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Add 1 cup water to a small pot.\n2. Add 1 cup sugar to pot.\n3. Bring sugar water to heat over medium to high heat.\n4. Turn it off before it boils.\n5. Let cool before using."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "### Equipment Recommendations\n- Shaker tin\n- Strainer\n- Eye dropper (or toothpick)\n- Coupe glasses\n- Channel knife (for the lemon twist)\n\n### Reverse Dry Shake Technique\n- Put ingredients into a shaker WITHOUT ice.\n- Shake vigorously (30 to 60 seconds) to create a meringue or thick foam.\n- Add ice to the tin.\n- Shake again for at least 10 seconds to chill the cocktail.\n- Strain into glass.\n\nYour drink can only be as good as the quality of your ingredients, so don't skimp out. While Hendricks Neptunia is recommended, it may be discontinued. Look for gins that have a citrus or coastal vibe as alternatives.\n\nSeparating the yolk from the egg per order will create the best cocktail, but you could use store-bought egg whites in a pinch."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "justins-margaritas",
+    "sourceFile": "Justin's Margarita.md",
+    "title": "Justin's Margaritas",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "2 servings",
+    "tags": [
+      "tequila",
+      "margarita",
+      "classic"
+    ],
+    "glassware": "Lowball glass",
+    "storage": null,
+    "strength": 7,
+    "taste": 8,
+    "image": "/images/justins-margaritas.jpg",
+    "description": "This is my recipe… feel free to bastardize it if you must, but that's on you. Actually, on second thought, don't do that. Just drink wine or whisky if you don't want to follow instructions. This yields about two margaritas. I like my margaritas tart, so I use a lot of lime. The measurements are estimates. I don't use a jigger; instead, I pour based on \"feeling\" (meaning more will come out of the bottle depending on how the kids behaved that day). You could strain the shaker into glasses full of fresh ice when making drinks for multiple people. This can stretch one batch up to 3 drinks depending on how much ice is in each glass.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "4 oz fresh lime juice (from 2 medium/large limes)",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "3.75 oz Hornitos Plata Tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "2.5 oz Cointreau",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "0.5 oz simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "Fine sea salt (for rim)",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          },
+          {
+            "raw": "Good size ice cubes",
+            "role": "assumed",
+            "canonical": []
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "fluffy-margarita",
+        "label": "Fluffy Margarita"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      },
+      {
+        "slug": "classic-margarita-joey-in-university-village",
+        "label": "Classic Margarita (Joey in University Village)"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 4 oz fresh lime juice (from 2 medium/large limes)\n- 3.75 oz Hornitos Plata Tequila\n- 2.5 oz Cointreau\n- 0.5 oz simple syrup\n- Fine sea salt (for rim)\n- Good size ice cubes\n\n**Glassware:** Lowball glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Make sure the limes are at room temperature. Give them a semi-hard roll on the counter before slicing.\n2. Halve 2 limes and squeeze them into the shaker tin (put limes in squeezer flesh down, rind up).\n3. Take a used lime and run it over the edge of your lowball and salt the rim.\n4. Fill a shaker tin 3/4 with ice cubes.\n5. Add 3.75 ounces of silver tequila to the shaker tin.\n6. Add 2.5 ounces of Cointreau to the shaker tin.\n7. Add 0.5 ounces of simple syrup to the shaker tin.\n8. Cover the shaker tin and shake vigorously.\n9. Pour into lowball and enjoy."
+      },
+      {
+        "heading": "Ingredient Quality Guide",
+        "kind": "other",
+        "md": "Your drink can only be as good as the quality of your ingredients. So don't skimp out.\n\n- **Limes:** 2 medium or large limes. There is no substitute for fresh limes. If you don't have limes, don't make margaritas… or at least don't tell me about it. When shopping, look for limes that are slightly large, have a lighter green hue, and have a thin smooth skin; these will give you the best juice.\n- **Tequila:** [Hornitos Plata Tequila](https://www.amazon.com/dp/B01H2VD8K8/). I like the crispness of the silver versus a reposado or anejo tequila. There are more expensive tequilas out there, but none match this flavor profile at this price point.\n- **Orange Liqueur:** [Cointreau](https://www.amazon.com/dp/B005HQSUFY/). No substitutes. Generic triple sec will be a disappointment.\n- **Simple Syrup:** I make my own using 1 cup sugar and 1 cup water that I almost bring to boil in a pot until it is clear. I suggest buying [this pre-made one](https://www.amazon.com/Stirrings-Simple-Sugar-Cocktail-Syrup/dp/B01JI1Q1L8) and refilling with homemade when empty.\n- **Salt:** [Fine sea salt](https://www.amazon.com/Alessi-Sea-Salt-Fine-24/dp/B00E3X81IS/) for a nice salted rim.\n- **Ice:** Good-sized ice cubes. Small ones dilute the drink too fast."
+      },
+      {
+        "heading": "Equipment",
+        "kind": "other",
+        "md": "- [Citrus squeezer](https://www.amazon.com/dp/B0858NPFK3/) - freshly squeezed lime makes the biggest difference\n- [Shaker tin](https://www.amazon.com/Boston-Professional-Bartender-Cocktail-Stainless/dp/B07HJZ1DL8/)\n- [Knife](https://www.amazon.com/Wusthof-Classic-Serrated-Utility-Knife/dp/B00005MEGN) - I know, I know, you already have a knife… I just love this one\n- [Salt rimmer](https://www.amazon.com/Cork-Mill-Margarita-Cocktail-Glasses/dp/B07H8NZZSY) - you could just use a plate, but we both know this drink deserves better than that.\n- Glass lowball - I always use the same glass; one I stole from a bar in Lake Como '#humblebrag"
+      },
+      {
+        "heading": null,
+        "kind": "other",
+        "md": "![](/images/justins-margaritas-1.jpg)"
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "justins-pomeranian",
+    "sourceFile": "Justin's Pomeranian.md",
+    "title": "Justin's Pomeranian",
+    "status": "tested",
+    "dateAdded": "Sat Apr 19 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "eggwhite",
+      "brunch",
+      "original"
+    ],
+    "glassware": "Rocks glass",
+    "storage": null,
+    "strength": 6,
+    "taste": 4,
+    "image": null,
+    "description": "If gin and grapefruit juice is a Greyhound, and adding salt is a Salty Dog, then adding egg white for a fluffy drink must be a Pomeranian! This original from Justin is a refreshing cocktail that combines the tartness of fresh grapefruit juice with the botanical notes of gin, while the egg white creates a luxurious, silky texture and frothy top.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "3 oz fresh grapefruit juice",
+            "role": "required",
+            "canonical": [
+              "grapefruit"
+            ]
+          },
+          {
+            "raw": "1 egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Salt for rimming",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          },
+          {
+            "raw": "Grapefruit wedge for garnish (optional)",
+            "role": "garnish",
+            "canonical": [
+              "grapefruit"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz gin\n- 3 oz fresh grapefruit juice\n- 1 egg white\n- Salt for rimming\n- Grapefruit wedge for garnish (optional)\n\n**Glassware:** Rocks glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Prepare a rocks glass by running a grapefruit wedge around the rim and dipping in salt\n2. Fill a cocktail shaker with ice\n3. Add gin, grapefruit juice, and egg white\n4. Shake vigorously for 15-20 seconds until well-chilled and frothy\n5. Strain into the prepared rocks glass\n6. Garnish with a grapefruit wedge if desired"
+      },
+      {
+        "heading": "Notes & Tips",
+        "kind": "other",
+        "md": "- For best results, use fresh-squeezed grapefruit juice rather than bottled\n- Try a dry shake (without ice) first, then add ice and shake again for maximum frothiness\n- Pink grapefruit juice will give a more vibrant color and slightly sweeter flavor\n- For a non-alcoholic version, substitute gin with a non-alcoholic gin alternative or cucumber-infused water"
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "lillet-blanc-with-frozen-orange-slice",
+    "sourceFile": "Lillet Blanc w frozen Orange slice.md",
+    "title": "Lillet Blanc with Frozen Orange Slice",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Wine-Based",
+    "servings": "1 serving",
+    "tags": [
+      "lillet",
+      "orange",
+      "aperitif",
+      "wine",
+      "summer"
+    ],
+    "glassware": "Wine glass",
+    "storage": null,
+    "strength": 2,
+    "taste": 3,
+    "image": null,
+    "description": "This elegant and simple aperitif features Lillet Blanc, a French aromatized wine, served extra cold with a frozen orange slice that acts as both a beautiful garnish and a natural ice cube. The frozen orange slowly melts into the Lillet, gradually releasing its citrus oils and flavors while keeping the drink perfectly chilled without dilution. This refreshing drink gained popularity on social media for its simplicity and visual appeal, making it perfect for warm weather gatherings or as a sophisticated pre-dinner drink.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz Lillet Blanc",
+            "role": "required",
+            "canonical": [
+              "lillet-blanc"
+            ]
+          },
+          {
+            "raw": "1 Navel orange, sliced into half-moons",
+            "role": "required",
+            "canonical": [
+              "orange"
+            ]
+          },
+          {
+            "raw": "Optional accompaniment: Light appetizers like cornichons or green olives",
+            "role": "garnish",
+            "canonical": [
+              "green-olives"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "french-75",
+        "label": "French 75"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz Lillet Blanc\n- 1 Navel orange, sliced into half-moons\n- Optional accompaniment: Light appetizers like cornichons or green olives\n\n**Glassware:** Wine glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Cut a navel orange into half-moon slices.\n2. Place the orange slices on a cutting board and put in the freezer for 30-60 minutes until partially frozen.\n3. Transfer the half-frozen orange slices into a large freezer bag and freeze overnight until they're rock solid.\n4. Put the bottle of Lillet Blanc into the freezer about 30 minutes before serving to make it really cold.\n5. Pour chilled Lillet Blanc into a wine glass.\n6. Add a frozen orange slice to the glass.\n7. Swirl gently before sipping.\n8. Serve with light appetizers, ideally something pickled like cornichons or green olives."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The thicker you slice the orange, the longer it'll stay frozen in your drink and the less it will affect the flavor of the Lillet.\n\nChilling the Lillet Blanc mellows out some of the sweetness and allows more of the floral, citrusy notes to shine through.\n\nAs the orange slice thaws, it will gradually infuse the drink with citrus flavor, creating an evolving tasting experience."
+      },
+      {
+        "heading": "Source",
+        "kind": "source",
+        "md": "[Lillet Blanc Easy Cocktail Recipe - BuzzFeed](https://www.buzzfeed.com/rossyoder/lillet-blanc-easy-cocktail-recipe-tiktok)"
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "wine"
+  },
+  {
+    "slug": "lychee-margarita",
+    "sourceFile": "Lychee Margarita.md",
+    "title": "Lychee Margarita",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "lychee",
+      "margarita"
+    ],
+    "glassware": "Margarita glass or rocks glass",
+    "storage": null,
+    "strength": 4,
+    "taste": 2,
+    "image": null,
+    "description": "The Lychee Margarita is a tropical twist on the classic margarita, featuring the delicate, floral sweetness of lychee fruit. This exotic cocktail combines the bold flavor of tequila with fresh lime juice and homemade lychee syrup for a refreshing, fruity drink that's both sophisticated and approachable. The pink dust rim adds a touch of elegance and a hint of color that complements the subtle sweetness of the lychee. Perfect for summer gatherings or whenever you want to add a unique Asian-inspired flavor to your cocktail repertoire.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "2 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "6 oz Lychee syrup",
+            "role": "required",
+            "canonical": [
+              "lychee-syrup"
+            ]
+          },
+          {
+            "raw": "Garnish: Lime wedges or whole lychee",
+            "role": "garnish",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "Garnish: Pink salt or sugar for rim",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "fluffy-margarita",
+        "label": "Fluffy Margarita"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Tequila\n- 2 oz Fresh lime juice\n- 6 oz Lychee syrup\n- Garnish: Lime wedges or whole lychee\n- Garnish: Pink salt or sugar for rim\n\n**Glassware:** Margarita glass or rocks glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. If desired, rim your glass with pink salt or sugar by running a lime wedge around the edge and dipping in the pink mixture.\n2. Fill a cocktail shaker with ice.\n3. Add tequila, fresh lime juice, and lychee syrup to the shaker.\n4. Shake vigorously until well-chilled, about 15 seconds.\n5. Strain into the prepared glass filled with fresh ice.\n6. Garnish with lime wedges or a whole lychee on a pick."
+      },
+      {
+        "heading": "Lychee Syrup",
+        "kind": "other",
+        "md": "1. Empty the contents of a can of lychees (fruit and syrup) into a blender.\n2. Blend until completely liquefied.\n3. Strain the mixture through a fine-mesh sieve to remove any solids.\n4. Store in a sealed container in the refrigerator for up to one week."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "You can adjust the sweetness of this cocktail by varying the amount of lychee syrup. The recipe as written creates a sweeter cocktail that showcases the lychee flavor.\n\nFor a more traditional margarita balance, you might reduce the lychee syrup to 1-2 oz and add 0.5-1 oz of triple sec or Cointreau.\n\nIf canned lychees aren't available, you can use fresh lychees blended with simple syrup, or substitute with bottled lychee juice mixed with a bit of simple syrup."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "mexican-martini",
+    "sourceFile": "Mexican Martini.md",
+    "title": "Mexican Martini",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "olive",
+      "margarita",
+      "martini"
+    ],
+    "glassware": "Coupe or martini glass",
+    "storage": null,
+    "strength": 8,
+    "taste": 6,
+    "image": null,
+    "description": "The Mexican Martini is a sophisticated hybrid between a margarita and a dirty martini that originated in Austin, Texas. This potent cocktail combines the rich flavor of añejo tequila with Cointreau, fresh citrus, and a touch of olive brine for a savory twist. Served in a salt-rimmed martini glass with olives, it offers a complex flavor profile that's simultaneously bright, salty, and smooth. The Mexican Martini is perfect for sipping slowly alongside chips and salsa, making it an ideal choice for a leisurely happy hour or relaxed gathering with friends.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz Añejo tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-anejo"
+            ]
+          },
+          {
+            "raw": "1.5 oz Cointreau",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "1.5 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.5 oz Green olive brine (from the jar)",
+            "role": "required",
+            "canonical": [
+              "green-olives"
+            ]
+          },
+          {
+            "raw": "Splash of Fresh orange juice",
+            "role": "required",
+            "canonical": [
+              "orange"
+            ]
+          },
+          {
+            "raw": "Garnish: Lime wedge and green olives",
+            "role": "garnish",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "Garnish: Salt for rimming",
+            "role": "garnish",
+            "canonical": [
+              "salt"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "vesper-martini",
+        "label": "Vesper Martini"
+      },
+      {
+        "slug": "dukes-imperfect-marg",
+        "label": "Dukes Imperfect Marg"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz Añejo tequila\n- 1.5 oz Cointreau\n- 1.5 oz Fresh lime juice\n- 0.5 oz Green olive brine (from the jar)\n- Splash of Fresh orange juice\n- Garnish: Lime wedge and green olives\n- Garnish: Salt for rimming\n\n**Glassware:** Coupe or martini glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Chill a small coupe or martini glass.\n2. Rim the glass with salt by running a lime wedge around the edge and dipping in salt.\n3. Fill a cocktail shaker with ice.\n4. Add añejo tequila, Cointreau, fresh lime juice, olive brine, and a splash of fresh orange juice to the shaker.\n5. Shake vigorously until well-chilled, about 15-20 seconds.\n6. Strain into the prepared glass.\n7. Garnish with a couple of olives and a lime wedge.\n8. Sip slowly, preferably with a basket of chips and a bowl of salsa."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The Mexican Martini is a strong cocktail, so as the recipe humorously suggests, you might want to \"clear your calendar for the rest of the day.\"\n\nFor the best flavor, use a good quality añejo tequila, which has been aged for at least one year and offers a smoother, more complex flavor than younger tequilas.\n\nSome variations include a splash of olive juice and orange juice, while others stick to just one or the other. Feel free to adjust to your taste preferences."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "martini"
+  },
+  {
+    "slug": "mexican-mule",
+    "sourceFile": "Mexican Mule.md",
+    "title": "Mexican Mule",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "ginger beer",
+      "agave"
+    ],
+    "glassware": "Copper mug",
+    "storage": null,
+    "strength": 4,
+    "taste": 4,
+    "image": null,
+    "description": "The Mexican Mule is a tequila-based variation of the classic Moscow Mule, substituting vodka with the agave spirit for a more complex, earthy flavor profile. This refreshing cocktail combines the bright citrus notes of fresh lime juice with the spicy kick of ginger beer, balanced by a touch of sweet agave nectar. Traditionally served in a copper mug which keeps the drink ice cold, the Mexican Mule is garnished with a sprig of rosemary that adds an aromatic herbal note. It's perfect for warm weather gatherings or whenever you want a refreshing cocktail with a bit of a kick.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.5 oz Tequila (blanco or reposado)",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco",
+              "tequila-reposado"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "1 tsp Agave nectar",
+            "role": "required",
+            "canonical": [
+              "agave-nectar"
+            ]
+          },
+          {
+            "raw": "4 oz Ginger beer (approximately 0.5 cup)",
+            "role": "required",
+            "canonical": [
+              "ginger-beer"
+            ]
+          },
+          {
+            "raw": "Ice cubes",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "Garnish: Rosemary sprig",
+            "role": "garnish",
+            "canonical": [
+              "rosemary"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "asadero-margarita",
+        "label": "Asadero Margarita"
+      },
+      {
+        "slug": "ranch-water",
+        "label": "Ranch Water"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.5 oz Tequila (blanco or reposado)\n- 0.5 oz Fresh lime juice\n- 1 tsp Agave nectar\n- 4 oz Ginger beer (approximately 0.5 cup)\n- Ice cubes\n- Garnish: Rosemary sprig\n\n**Glassware:** Copper mug"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Fill a copper mug with ice cubes.\n2. Add tequila, fresh lime juice, and agave nectar to the mug.\n3. Stir gently to combine.\n4. Top with ginger beer.\n5. Gently stir again to incorporate.\n6. Garnish with a sprig of rosemary.\n7. Serve immediately."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "For the best flavor, use a quality ginger beer with a strong ginger kick rather than ginger ale, which is sweeter and less spicy.\n\nThe type of tequila you choose will affect the final flavor profile. Blanco (silver) tequila will provide a cleaner, more agave-forward taste, while reposado will add subtle oak and vanilla notes from barrel aging.\n\nIf you don't have a copper mug, a highball glass works well too, though the drink may not stay as cold for as long."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "copper-mug"
+  },
+  {
+    "slug": "old-fashioned",
+    "sourceFile": "Old Fashioned.md",
+    "title": "Old Fashioned",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "whiskey",
+      "bourbon",
+      "rye",
+      "bitters",
+      "classic",
+      "spirit-forward"
+    ],
+    "glassware": "Rocks glass (Old Fashioned glass)",
+    "storage": null,
+    "strength": 8,
+    "taste": 4,
+    "image": null,
+    "description": "The Old Fashioned is one of the oldest and most revered cocktails in existence, dating back to the early 1800s. This timeless classic showcases the rich flavors of whiskey (traditionally bourbon or rye) with just a touch of sweetness, aromatic bitters, and citrus oil. The beauty of the Old Fashioned lies in its simplicity—it's essentially a perfect balance of spirit, sugar, and bitters. The drink has survived prohibition, changing tastes, and countless trends, cementing its place as the quintessential whiskey cocktail that every bartender should master.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Bourbon or rye whiskey",
+            "role": "required",
+            "canonical": [
+              "bourbon",
+              "rye-whiskey"
+            ]
+          },
+          {
+            "raw": "1 Sugar cube (or 0.25 oz simple syrup)",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "2-3 dashes Angostura bitters",
+            "role": "required",
+            "canonical": [
+              "angostura-bitters"
+            ]
+          },
+          {
+            "raw": "Orange peel (for garnish)",
+            "role": "garnish",
+            "canonical": [
+              "orange"
+            ]
+          },
+          {
+            "raw": "Optional: 1 Luxardo cherry for garnish",
+            "role": "garnish",
+            "canonical": [
+              "cocktail-cherry"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "wisconsin-old-fashioned",
+        "label": "Wisconsin Old Fashioned"
+      },
+      {
+        "slug": "paper-plane",
+        "label": "Paper Plane"
+      }
+    ],
+    "video": "pdcrJ5V7YKM",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Bourbon or rye whiskey\n- 1 Sugar cube (or 0.25 oz simple syrup)\n- 2-3 dashes Angostura bitters\n- Orange peel (for garnish)\n- Optional: 1 Luxardo cherry for garnish\n\n**Glassware:** Rocks glass (Old Fashioned glass)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Place the sugar cube in a rocks glass.\n2. Saturate the sugar cube with 2-3 dashes of Angostura bitters.\n3. Add a small splash of water (about 1 teaspoon).\n4. Muddle until the sugar is dissolved.\n5. Add a large ice cube or several smaller ice cubes to the glass.\n6. Pour in the whiskey.\n7. Stir gently for about 15-20 seconds to chill and dilute slightly.\n8. Express the oils from an orange peel by twisting it over the drink.\n9. Rub the orange peel around the rim of the glass, then drop it into the drink.\n10. Optionally, add a Luxardo cherry for garnish."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "If using simple syrup instead of a sugar cube, skip steps 1-3 and simply add the syrup directly to the glass with the bitters before adding ice.\n\nThe choice of whiskey significantly impacts the flavor profile. Bourbon creates a sweeter, more rounded Old Fashioned, while rye offers a drier, spicier version. High-quality whiskey makes a difference in this spirit-forward cocktail.\n\nSome variations include using different bitters (such as orange or chocolate), different sweeteners (like maple syrup or demerara syrup), or adding a splash of water at the end for additional dilution."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "paper-plane",
+    "sourceFile": "Paper Plane.md",
+    "title": "Paper Plane",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "2 servings",
+    "tags": [
+      "bourbon",
+      "amaro",
+      "aperol",
+      "sour",
+      "classic"
+    ],
+    "glassware": "Coupe",
+    "storage": null,
+    "strength": 7,
+    "taste": 6,
+    "image": null,
+    "description": "The Paper Plane is a modern classic cocktail created by bartender Sam Ross in 2007. Named after the M.I.A. song \"Paper Plane,\" this perfectly balanced cocktail features equal parts of four ingredients. It offers a complex flavor profile with bitter-sweet notes from the amaro and Aperol, warmth from the bourbon, and brightness from the fresh lemon juice.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "0.75 oz Amaro Nonino",
+            "role": "required",
+            "canonical": [
+              "amaro-nonino"
+            ]
+          },
+          {
+            "raw": "0.75 oz Aperol",
+            "role": "required",
+            "canonical": [
+              "aperol"
+            ]
+          },
+          {
+            "raw": "0.75 oz Bourbon",
+            "role": "required",
+            "canonical": [
+              "bourbon"
+            ]
+          },
+          {
+            "raw": "0.75 oz Fresh lemon juice, strained",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "old-fashioned",
+        "label": "Old Fashioned"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 0.75 oz Amaro Nonino\n- 0.75 oz Aperol\n- 0.75 oz Bourbon\n- 0.75 oz Fresh lemon juice, strained"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine amaro, Aperol, bourbon, and lemon juice in a cocktail shaker.\n2. Fill with ice and shake vigorously until outside of shaker is frosty, about 20 seconds.\n3. Strain into 2 coupe glasses."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "coupe"
+  },
+  {
+    "slug": "pina-colada",
+    "sourceFile": "Piña Colada.md",
+    "title": "Piña Colada",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "rum",
+      "coconut",
+      "pineapple",
+      "creamy",
+      "tropical",
+      "blended",
+      "classic"
+    ],
+    "glassware": "12-oz hurricane glass or tall glass",
+    "storage": null,
+    "strength": 4,
+    "taste": 1,
+    "image": null,
+    "description": "The Piña Colada is a classic tropical cocktail created in 1954 by Ramón \"Monchito\" Marrero at the Caribe Hilton in San Juan, Puerto Rico. After three months of experimentation, Marrero perfected this creamy, fruity blend of rum, coconut cream, and pineapple juice that he felt truly captured the flavors of Puerto Rico. The cocktail gained such popularity and cultural significance that in 1978, Puerto Rico officially named it the national drink. The name \"Piña Colada\" means \"strained pineapple\" in Spanish, referring to the fresh pineapple juice used in the recipe.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Rum",
+            "role": "required",
+            "canonical": [
+              "rum-white",
+              "rum-dark"
+            ]
+          },
+          {
+            "raw": "1 oz Coconut cream",
+            "role": "required",
+            "canonical": [
+              "coconut-cream"
+            ]
+          },
+          {
+            "raw": "1 oz Heavy cream",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "6 oz Fresh pineapple juice",
+            "role": "required",
+            "canonical": [
+              "pineapple-juice"
+            ]
+          },
+          {
+            "raw": "1/2 cup Crushed ice",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "Garnish: Fresh pineapple slice and maraschino cherry",
+            "role": "garnish",
+            "canonical": [
+              "pineapple"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "virgin-pina-colada",
+        "label": "Virgin Piña Colada"
+      },
+      {
+        "slug": "frozen-espresso-martini",
+        "label": "Frozen Espresso Martini"
+      },
+      {
+        "slug": "lychee-margarita",
+        "label": "Lychee Margarita"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Rum\n- 1 oz Coconut cream\n- 1 oz Heavy cream\n- 6 oz Fresh pineapple juice\n- 1/2 cup Crushed ice\n- Garnish: Fresh pineapple slice and maraschino cherry\n\n**Glassware:** 12-oz hurricane glass or tall glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Add rum, coconut cream, heavy cream, and fresh pineapple juice to a blender.\n2. Add crushed ice.\n3. Blend for 15 seconds until smooth and frothy.\n4. Pour into a 12-oz glass.\n5. Garnish with a fresh pineapple slice and a maraschino cherry."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "This is the original Piña Colada recipe from the Caribe Hilton, the birthplace of this iconic cocktail. Ramón \"Monchito\" Marrero continued to serve this beverage at the Caribe Hilton for 35 years following its creation.\n\nFor the best flavor, use fresh pineapple juice rather than canned. If fresh pineapples aren't available, look for 100% pineapple juice without added sugars.\n\nSome modern variations omit the heavy cream and use only coconut cream for a dairy-free version. Others use a mix of light and dark rums for more complexity."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "hurricane"
+  },
+  {
+    "slug": "pumpkin-syrup",
+    "sourceFile": "Pumpkin Syrup.md",
+    "title": "Pumpkin Syrup",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Cocktail Component",
+    "servings": "Multiple servings",
+    "tags": [
+      "syrup",
+      "pumpkin",
+      "spice",
+      "fall"
+    ],
+    "glassware": null,
+    "storage": null,
+    "strength": null,
+    "taste": null,
+    "image": null,
+    "description": "Pumpkin Syrup is a versatile, seasonal ingredient that adds the warm, spiced flavors of autumn to cocktails and other beverages. This homemade syrup combines real pumpkin puree with aromatic spices like cinnamon, cloves, ginger, and nutmeg for an authentic fall flavor. Perfect for creating pumpkin spice martinis, old fashioneds, or adding a seasonal twist to coffee drinks. The syrup can be made in two different ways - a simpler version with pre-mixed pumpkin spice, or a from-scratch version using individual spices for more control over the flavor profile.",
+    "ingredientGroups": [
+      {
+        "label": "Ingredients",
+        "items": [
+          {
+            "raw": "1/2 cup Brown sugar (add more for a thicker, longer-lasting syrup)",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1/2 cup Cane sugar or granulated sugar",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 cup Water",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1/4 cup Pumpkin puree",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1/2 teaspoon Vanilla extract",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "3 teaspoons Pumpkin spice",
+            "role": "required",
+            "canonical": []
+          }
+        ]
+      },
+      {
+        "label": "Ingredients",
+        "items": [
+          {
+            "raw": "1.5 cups Brown sugar",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 cup Water",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 teaspoon Vanilla extract",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 teaspoon Finely-ground cinnamon",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1/4 teaspoon Finely-ground cloves",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 teaspoon Ginger",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "A dash of Nutmeg",
+            "role": "required",
+            "canonical": [
+              "nutmeg"
+            ]
+          },
+          {
+            "raw": "2 tablespoons Canned pumpkin puree",
+            "role": "required",
+            "canonical": []
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "rich-demerara-syrup",
+        "label": "Rich Demerara Syrup"
+      },
+      {
+        "slug": "old-fashioned",
+        "label": "Old Fashioned"
+      },
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      },
+      {
+        "slug": "wisconsin-old-fashioned",
+        "label": "Wisconsin Old Fashioned"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Version 1 - Easier Method",
+        "kind": "other",
+        "md": "### Ingredients\n\n- 1/2 cup Brown sugar (add more for a thicker, longer-lasting syrup)\n- 1/2 cup Cane sugar or granulated sugar\n- 1 cup Water\n- 1/4 cup Pumpkin puree\n- 1/2 teaspoon Vanilla extract\n- 3 teaspoons Pumpkin spice\n\n**Storage:** Glass jar with airtight lid\n\n### Directions\n\n1. In a saucepan over medium heat, stir together brown sugar, cane sugar, and water until the sugar has dissolved. Don't let it boil.\n2. Stir in pumpkin puree and vanilla until dissolved.\n3. Add the pumpkin spice and stir to combine.\n4. Cook for about 10 minutes total, being careful not to boil.\n5. Turn off the heat and let the mixture sit for 15 minutes.\n6. Strain through a fine mesh strainer to remove any solids.\n7. Transfer to a glass jar, seal, and refrigerate."
+      },
+      {
+        "heading": "Version 2 - From Scratch",
+        "kind": "other",
+        "md": "### Ingredients\n\n- 1.5 cups Brown sugar\n- 1 cup Water\n- 1 teaspoon Vanilla extract\n- 1 teaspoon Finely-ground cinnamon\n- 1/4 teaspoon Finely-ground cloves\n- 1 teaspoon Ginger\n- A dash of Nutmeg\n- 2 tablespoons Canned pumpkin puree\n\n**Storage:** Airtight jar or bottle\n\n### Directions\n\n1. Combine brown sugar and water in a saucepan and bring to a gentle boil.\n2. Reduce the heat to a simmer and cook for about 10 minutes.\n3. Add the vanilla extract, cinnamon, cloves, ginger, and nutmeg, stirring to combine.\n4. Add the pumpkin puree and stir until fully incorporated.\n5. Continue to simmer until the syrup has a smooth consistency and no sugar grains remain.\n6. Remove from heat and allow to cool to room temperature.\n7. Strain through a mesh sieve and discard solids.\n8. Transfer to an airtight jar or bottle and refrigerate."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "You can adjust the sugar-to-water ratio depending on your preferences:\n- A 1:1 ratio (equal parts sugar and water) creates a thinner syrup that will last about a month in the refrigerator.\n- A 2:1 ratio (twice as much sugar as water) creates a heavier, thicker syrup that can last up to six months before it begins to turn cloudy.\n\nAdding canned pumpkin puree gives a more authentic pumpkin flavor rather than just spice, but it will also make your syrup a little thicker.\n\nFor the best results, use finely-ground spices to avoid graininess in the final syrup."
+      }
+    ],
+    "type": "ingredient",
+    "glasswareKey": "bottle"
+  },
+  {
+    "slug": "ramos-gin-fizz",
+    "sourceFile": "Ramos Gin Fizz.md",
+    "title": "Ramos Gin Fizz",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "eggwhite",
+      "cream",
+      "citrus",
+      "fizz",
+      "classic"
+    ],
+    "glassware": "Collins glass",
+    "storage": null,
+    "strength": 4,
+    "taste": 3,
+    "image": null,
+    "description": "The Ramos Gin Fizz is a legendary New Orleans cocktail created in the 1880s by Henry C. Ramos. This ethereal and strangely light cocktail combines gin and citrus with cream and soda, plus an elusive touch of orange blossom water. What makes this drink truly special is its silky, frothy texture achieved through extensive shaking—originally, Ramos called for an incredible 12 minutes of shaking, with New Orleans bars of the time enlisting teams of \"shaker boys\" who would pass each shaker down the line. Today, it's something of a joke in bartending circles: If you want to annoy a bartender, order a Ramos Gin Fizz, especially if they're working a crowd three-deep.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.5 oz London dry gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "1 Medium egg white",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "0.75 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.5 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Half-and-half",
+            "role": "required",
+            "canonical": [
+              "cream"
+            ]
+          },
+          {
+            "raw": "3 dashes Orange blossom water (also called orange flower water)",
+            "role": "required",
+            "canonical": [
+              "orange-blossom-water"
+            ]
+          },
+          {
+            "raw": "2 oz Club soda (to top)",
+            "role": "required",
+            "canonical": [
+              "soda-water"
+            ]
+          },
+          {
+            "raw": "Garnish: Orange wedge",
+            "role": "garnish",
+            "canonical": [
+              "orange"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "tom-collins",
+        "label": "Tom Collins"
+      },
+      {
+        "slug": "white-lady",
+        "label": "White Lady"
+      },
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.5 oz London dry gin\n- 1 Medium egg white\n- 0.75 oz Simple syrup\n- 0.5 oz Fresh lime juice\n- 0.5 oz Fresh lemon juice\n- 0.5 oz Half-and-half\n- 3 dashes Orange blossom water (also called orange flower water)\n- 2 oz Club soda (to top)\n- Garnish: Orange wedge\n\n**Glassware:** Collins glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Crack open an egg and separate the white. Take a close look and a good whiff to ensure freshness before adding to your cocktail shaker.\n2. Add gin, egg white, simple syrup, lime juice, lemon juice, half-and-half, and orange blossom water to the shaker WITHOUT ice.\n3. Seal your shaker and give a vigorous dry shake for at least one minute. You'll feel pressure start to build.\n4. Unseal the shaker, add ice, reseal, and shake again vigorously for at least another minute (the longer the better).\n5. Strain into a Collins glass with no ice.\n6. Top with 2 ounces of club soda.\n7. Add any excess foam from the cocktail shaker on top.\n8. Garnish with an orange wedge.\n9. Serve immediately with a straw."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "When working with raw eggs, always use common sense; if the egg looks or smells off, grab a new egg.\n\nThe extensive shaking is crucial to achieving the signature texture of this cocktail. Don't skimp on the shaking time—it's what transforms a drink with cream and egg into a frothy, light concoction. If your arms get tired, hand it off to a friend.\n\nFor an authentic experience, some bartenders will add the club soda to the empty glass first, then slowly pour the cocktail over it to create a dramatic foam cap that rises above the rim of the glass."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "collins"
+  },
+  {
+    "slug": "ranch-water",
+    "sourceFile": "Ranch Water.md",
+    "title": "Ranch Water",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "tequila",
+      "topochico",
+      "summer"
+    ],
+    "glassware": "Topo Chico bottle or highball glass",
+    "storage": null,
+    "strength": 3,
+    "taste": 7,
+    "image": null,
+    "description": "Ranch Water is a refreshing, minimalist cocktail that originated in West Texas and has gained popularity throughout the Southwest. This simple yet satisfying drink combines blanco tequila, fresh lime juice, and Topo Chico mineral water for a clean, crisp, and effervescent experience. The beauty of Ranch Water lies in its straightforward preparation and light, thirst-quenching quality, making it perfect for hot summer days. While the recipe is incredibly simple, the specific use of Topo Chico—a Mexican mineral water known for its intense carbonation and mineral content—is what gives this cocktail its distinctive character.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 12-ounce bottle of Topo Chico mineral water",
+            "role": "required",
+            "canonical": [
+              "soda-water"
+            ]
+          },
+          {
+            "raw": "1.5 oz Blanco tequila",
+            "role": "required",
+            "canonical": [
+              "tequila-blanco"
+            ]
+          },
+          {
+            "raw": "0.25 oz Fresh lime juice",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "1 Barspoon simple syrup (optional)",
+            "role": "optional",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "Garnish: Lime wedge",
+            "role": "garnish",
+            "canonical": [
+              "lime"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "justins-margaritas",
+        "label": "Justin's Margaritas"
+      },
+      {
+        "slug": "mexican-mule",
+        "label": "Mexican Mule"
+      },
+      {
+        "slug": "tom-collins",
+        "label": "Tom Collins"
+      },
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 12-ounce bottle of Topo Chico mineral water\n- 1.5 oz Blanco tequila\n- 0.25 oz Fresh lime juice\n- 1 Barspoon simple syrup (optional)\n- Garnish: Lime wedge\n\n**Glassware:** Topo Chico bottle or highball glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Open the bottle of Topo Chico.\n2. Pour out or drink about 2 ounces of the mineral water to make room for the other ingredients.\n3. Carefully—it will fizz—add the tequila, lime juice, and simple syrup (if using).\n4. Lightly stir with a straw or chopstick to combine.\n5. Garnish with a lime wedge.\n6. Serve immediately, while the Topo Chico is still highly carbonated."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "Topo Chico is the traditional and preferred mineral water for this cocktail due to its intense carbonation and distinctive mineral profile. If Topo Chico isn't available, substitute with another highly carbonated mineral water.\n\nFor an authentic Texas experience, serve the drink directly in the Topo Chico bottle. If serving in a glass, use a tall highball glass filled with ice.\n\nRanch Water is meant to be a light, refreshing drink. The simple syrup is truly optional—many purists skip it entirely, letting the natural sweetness of the tequila shine through."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "collins"
+  },
+  {
+    "slug": "rich-demerara-syrup",
+    "sourceFile": "Rich Demerar Syrup.md",
+    "title": "Rich Demerara Syrup",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Cocktail Component",
+    "servings": "Multiple servings",
+    "tags": [
+      "syrup",
+      "demerara",
+      "sugar"
+    ],
+    "glassware": null,
+    "storage": "Airtight container in refrigerator",
+    "strength": null,
+    "taste": null,
+    "image": null,
+    "description": "Rich Demerara Syrup is a premium sweetener used in craft cocktails to add depth, complexity, and a subtle molasses-like flavor. Unlike regular simple syrup made with white sugar, demerara syrup uses unrefined demerara sugar, which retains more of its natural molasses content. The \"rich\" in the name refers to the 2:1 sugar-to-water ratio, creating a thicker, more concentrated syrup that adds sweetness without diluting your cocktails as much. This syrup is particularly excellent in aged spirit cocktails like Old Fashioneds, Manhattans, and rum drinks, where its caramel notes complement the wood-aged flavors.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 parts Demerara sugar",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "1 part Water",
+            "role": "required",
+            "canonical": []
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "old-fashioned",
+        "label": "Old Fashioned"
+      },
+      {
+        "slug": "wisconsin-old-fashioned",
+        "label": "Wisconsin Old Fashioned"
+      },
+      {
+        "slug": "pumpkin-syrup",
+        "label": "Pumpkin Syrup"
+      },
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 parts Demerara sugar\n- 1 part Water\n\n**Storage:** Airtight container in refrigerator"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. In a small saucepan, combine 2 parts demerara sugar and 1 part water.\n2. Place over medium heat and stir until the sugar is completely dissolved.\n3. Do not allow the mixture to boil, as this can cause crystallization.\n4. Once all sugar is dissolved, remove from heat and let cool to room temperature.\n5. Transfer to a clean, airtight container.\n6. Store in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "Demerara sugar is a type of minimally refined raw cane sugar with large, crunchy crystals and a natural toffee-like flavor. If you can't find demerara sugar, turbinado sugar (often sold as \"Sugar in the Raw\") makes a good substitute.\n\nThe 2:1 ratio creates a \"rich\" syrup that has a longer shelf life than standard 1:1 simple syrup and adds less water to your cocktails. This is particularly useful in spirit-forward drinks where you want to maintain the drink's potency while adding sweetness.\n\nFor an extra dimension of flavor, you can add a cinnamon stick, star anise, or a split vanilla bean to the syrup as it cools. Remove the spice before bottling."
+      },
+      {
+        "heading": "Uses in Cocktails",
+        "kind": "other",
+        "md": "Rich demerara syrup works particularly well in:\n- Old Fashioned\n- Manhattan\n- Mai Tai\n- Dark 'n Stormy\n- Hot Toddy\n- Rum-based cocktails\n- Whiskey-based cocktails\n\nThe complex, slightly molasses-like flavor of demerara sugar complements aged spirits beautifully, adding depth and richness that regular simple syrup cannot provide."
+      }
+    ],
+    "type": "ingredient",
+    "glasswareKey": "bottle"
+  },
+  {
+    "slug": "spaghett",
+    "sourceFile": "Spaghett.md",
+    "title": "Spaghett",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Beer-Based",
+    "servings": "1 serving",
+    "tags": [
+      "beer",
+      "aperol",
+      "simple",
+      "summer"
+    ],
+    "glassware": "Beer bottle (served in the original bottle)",
+    "storage": null,
+    "strength": 3,
+    "taste": 6,
+    "image": null,
+    "description": "The Spaghett is a modern, low-effort cocktail that combines the simplicity of beer with the sophisticated bitterness of Aperol and brightness of fresh lemon juice. This unpretentious drink has gained popularity in craft cocktail circles for its accessibility and refreshing taste. The name \"Spaghett\" is a playful nod to the Italian aperitivo culture (Aperol being an Italian aperitif) combined with the casual nature of drinking beer. It's perfect for summer gatherings, backyard barbecues, or anytime you want something more interesting than a plain beer but don't want to fuss with complex cocktail preparation.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 12-ounce Miller High Life (or similar light beer of choice)",
+            "role": "required",
+            "canonical": [
+              "light-beer"
+            ]
+          },
+          {
+            "raw": "2 oz Aperol",
+            "role": "required",
+            "canonical": [
+              "aperol"
+            ]
+          },
+          {
+            "raw": "0.75 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      },
+      {
+        "slug": "ranch-water",
+        "label": "Ranch Water"
+      },
+      {
+        "slug": "paper-plane",
+        "label": "Paper Plane"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 12-ounce Miller High Life (or similar light beer of choice)\n- 2 oz Aperol\n- 0.75 oz Fresh lemon juice\n\n**Glassware:** Beer bottle (served in the original bottle)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "### Method 1 (Stirred)\n1. Take a swig (or two) of beer out of the bottle to make room for the other ingredients.\n2. In a mixing glass filled with ice, stir together the Aperol and lemon juice.\n3. Pour the Aperol-lemon mixture into the beer bottle.\n4. Gently tilt the bottle back and forth to mix.\n5. Enjoy directly from the bottle.\n\n### Method 2 (Direct)\n1. Take a swig (or two) of beer out of the bottle to make room for the other ingredients.\n2. Pour the Aperol and lemon juice directly into the beer bottle.\n3. Gently tilt the bottle back and forth to mix.\n4. Enjoy directly from the bottle."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "Miller High Life is the traditional beer of choice for a Spaghett due to its light, crisp character and \"Champagne of Beers\" nickname, which pairs well with the slightly bitter and citrusy Aperol. However, any light lager will work.\n\nThe direct method is quicker and more casual, while the stirred method with ice chills the Aperol and lemon juice before adding to the beer, resulting in a colder final drink.\n\nSome variations include adding a splash of sparkling water for extra effervescence or using a different amaro in place of Aperol for a different flavor profile."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "beer-bottle"
+  },
+  {
+    "slug": "tangy-citric-margarita-rim",
+    "sourceFile": "Justin's Tangy Marg Salt.md",
+    "title": "Tangy Citric Margarita Rim",
+    "status": "tested",
+    "dateAdded": "",
+    "category": null,
+    "servings": null,
+    "tags": [],
+    "glassware": null,
+    "storage": null,
+    "strength": null,
+    "taste": null,
+    "image": null,
+    "description": null,
+    "ingredientGroups": [
+      {
+        "label": "Base Ratio",
+        "items": [
+          {
+            "raw": "**4 tsp fine salt**",
+            "role": "required",
+            "canonical": [
+              "salt"
+            ]
+          },
+          {
+            "raw": "**1 tsp citric acid**",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "**½ tsp lime powder**",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "**⅛ tsp cayenne powder**",
+            "role": "required",
+            "canonical": []
+          },
+          {
+            "raw": "⅛ tsp sugar (maybe I don’t know what quarter teaspoon is this black ones)",
+            "role": "required",
+            "canonical": []
+          }
+        ]
+      }
+    ],
+    "related": [],
+    "video": null,
+    "sections": [
+      {
+        "heading": null,
+        "kind": "other",
+        "md": "### **Base Ratio\n\nUse **teaspoons** for accuracy:\n\n- **4 tsp fine salt**\n- **1 tsp citric acid**\n- **½ tsp lime powder**\n- **⅛ tsp cayenne powder**\n- ⅛ tsp sugar (maybe I don’t know what quarter teaspoon is this black ones)"
+      },
+      {
+        "heading": "Why These Ratios Work",
+        "kind": "other",
+        "md": "- **Salt (4 tsp)** → structure + adherence\n- **Citric acid (1 tsp)** → main tang (this is doing the heavy lifting)\n- **Lime powder (½ tsp)** → aroma + citrus realism\n- **Cayenne (⅛ tsp)** → background warmth, not “spicy rim”\n\nYou should _notice_ cayenne only after the sip."
+      },
+      {
+        "heading": "Adjustments (Make Micro Changes Only)",
+        "kind": "other",
+        "md": "### **Want it** more tangy**\n\n- Increase citric acid to **1¼ tsp**\n\n### **Want it** brighter / more lime**\n\n- Increase lime powder to **¾ tsp**\n\n### **Want a** noticeable heat**\n\n- Increase cayenne to **¼ tsp**\n    ⚠️ More than that overwhelms margaritas.\n\n### Too Sharp? \n\n- Reduce citric acid to **¾ tsp**"
+      },
+      {
+        "heading": "Texture Tip (Important)",
+        "kind": "other",
+        "md": "After mixing:\n\n- Pulse **once or twice** in a spice grinder\n- Goal: uniform powder, not dust\n\nIf you don’t have a grinder, whisk aggressively."
+      },
+      {
+        "heading": "How to Rim (Best Results)",
+        "kind": "other",
+        "md": "1. Use **fresh lime juice** on the glass\n2. Rim **half the glass only**\n3. Let sit **30 seconds** before pouring"
+      },
+      {
+        "heading": "Quick Scaling",
+        "kind": "other",
+        "md": "Want a larger batch?\n\nMultiply everything evenly:\n\n- 1 cup salt\n- ¼ cup citric acid\n- 2 tbsp lime powder\n- 1½ tsp cayenne"
+      }
+    ],
+    "type": "ingredient",
+    "glasswareKey": "bottle"
+  },
+  {
+    "slug": "the-dude-imbibes",
+    "sourceFile": "The Dude Imbibes.md",
+    "title": "The Dude Imbibes",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "vodka",
+      "coffee"
+    ],
+    "glassware": "Rocks glass",
+    "storage": null,
+    "strength": 6,
+    "taste": 3,
+    "image": null,
+    "description": "\"The Dude Imbibes\" is a sophisticated take on the classic White Russian, created by master cocktail craftsman Allen Lancaster at The Bar at The Spectator Hotel in Charleston, South Carolina. This 1920s speakeasy-inspired lounge pays homage to The Dude from the cult film \"The Big Lebowski,\" who drinks White Russians in nearly every scene. This elevated version features house-infused chai spice-vanilla vodka and unsweetened almond milk, poured over a large espresso coffee liqueur ice cube that gradually melts and transforms the drink as you sip it. The result is a complex, evolving cocktail that starts strong and gradually becomes more coffee-forward and diluted to perfection.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz House-infused chai spice-vanilla vodka (recipe below)",
+            "role": "required",
+            "canonical": [
+              "vodka"
+            ]
+          },
+          {
+            "raw": "1.5 oz Unsweetened almond milk",
+            "role": "required",
+            "canonical": [
+              "almond-milk"
+            ]
+          },
+          {
+            "raw": "1 large Espresso coffee liqueur ice cube (recipe below)",
+            "role": "assumed",
+            "canonical": []
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "espresso-martini",
+        "label": "Espresso Martini"
+      },
+      {
+        "slug": "frozen-espresso-martini",
+        "label": "Frozen Espresso Martini"
+      },
+      {
+        "slug": "brady-alexander",
+        "label": "Brady Alexander"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz House-infused chai spice-vanilla vodka (recipe below)\n- 1.5 oz Unsweetened almond milk\n- 1 large Espresso coffee liqueur ice cube (recipe below)\n\n**Glassware:** Rocks glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Place one large espresso coffee liqueur ice cube in a rocks glass.\n2. Combine the chai spice-vanilla vodka and unsweetened almond milk in a mixing glass.\n3. Pour the mixture over the ice cube.\n4. Serve with a straw or swizzle stick, encouraging the guest to stir occasionally to gradually dissolve the ice cube and evolve the flavor of the cocktail."
+      },
+      {
+        "heading": "Chai Spice-Vanilla Vodka",
+        "kind": "other",
+        "md": "### Ingredients\n- 1 bottle (750ml) Cathead vodka (or other quality vodka)\n- 4 Vanilla beans (split and scraped)\n- 1 tsp Ground cardamom\n- 1 tsp Ground allspice\n- 2 tsp Ground cinnamon\n- 1 tsp Ground cloves\n- 3 tsp Ground ginger\n\n### Directions\n1. Split and scrape the vanilla beans.\n2. Combine the vodka, vanilla beans (pods and seeds), and all spices in a large container.\n3. Seal and store in a cool, dark place for 3-5 days, shaking daily.\n4. Strain through a fine-mesh strainer lined with cheesecloth to remove all solids.\n5. Store in a sealed bottle."
+      },
+      {
+        "heading": "Espresso Coffee Liqueur Ice Cubes",
+        "kind": "other",
+        "md": "### Ingredients\n- 12 oz Fresh espresso\n- 12 oz St. George NOLA coffee liqueur\n- 12 oz Water\n\n### Directions\n1. Brew the espresso and allow to cool completely.\n2. Combine the cooled espresso, coffee liqueur, and water in a mixing bowl.\n3. Pour the mixture into large ice cube molds.\n4. Freeze until solid (at least 4 hours, preferably overnight)."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The beauty of this cocktail is how it evolves as you drink it. The espresso coffee liqueur ice cube slowly melts, gradually changing the flavor profile from a chai-forward beginning to a more coffee-dominant end.\n\nIf you don't have access to Cathead vodka, any premium vodka will work for the infusion.\n\nFor a non-dairy version, the unsweetened almond milk already used in this recipe works perfectly, but you could also use oat milk for a creamier texture."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  },
+  {
+    "slug": "tom-collins",
+    "sourceFile": "Tom Collins.md",
+    "title": "Tom Collins",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "soda",
+      "classic",
+      "summer"
+    ],
+    "glassware": "Collins glass",
+    "storage": null,
+    "strength": 4,
+    "taste": 5,
+    "image": null,
+    "description": "The Tom Collins is a classic cocktail dating back to the 1870s, named after what may have been an elaborate practical joke that swept New York and Philadelphia. This refreshing, tall drink combines gin, fresh lemon juice, and sugar, topped with soda water for a bright, effervescent finish. Often described as a \"sparkling gin lemonade,\" the Tom Collins is the perfect balance of sweet, sour, and spirit, making it an enduring favorite for warm weather. Its simplicity and refreshing character have made it a staple in cocktail culture for over 150 years, spawning numerous variations and inspiring an entire category of \"Collins\" drinks.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "1 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.5 oz Semi-rich simple syrup (1.5:1 sugar to water)",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "2-3 oz Soda water",
+            "role": "required",
+            "canonical": [
+              "soda-water"
+            ]
+          },
+          {
+            "raw": "Garnish: Lemon wheel",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "Garnish: Cocktail cherry",
+            "role": "garnish",
+            "canonical": [
+              "cocktail-cherry"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "ranch-water",
+        "label": "Ranch Water"
+      },
+      {
+        "slug": "french-75",
+        "label": "French 75"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Gin\n- 1 oz Fresh lemon juice\n- 0.5 oz Semi-rich simple syrup (1.5:1 sugar to water)\n- 2-3 oz Soda water\n- Garnish: Lemon wheel\n- Garnish: Cocktail cherry\n\n**Glassware:** Collins glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Fill a cocktail shaker with ice.\n2. Add gin, lemon juice, and simple syrup to the shaker.\n3. Shake quickly for about 5 seconds (a short shake is traditional for this drink).\n4. Fill a Collins glass with fresh ice.\n5. Strain the mixture into the Collins glass while simultaneously adding 2-3 oz of soda water.\n6. Gently stir to combine.\n7. Garnish with a lemon wheel and a cocktail cherry."
+      },
+      {
+        "heading": "Semi-Rich Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine 1.5 parts sugar with 1 part water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The Tom Collins traditionally calls for Old Tom gin, a slightly sweeter style of gin that was popular in the 18th century. However, London Dry gin is commonly used in modern recipes. For an authentic experience, seek out an Old Tom gin if available.\n\nThe \"semi-rich\" simple syrup (1.5:1 ratio of sugar to water) provides a silkier texture and more concentrated sweetness than standard simple syrup, but you can substitute regular 1:1 simple syrup if preferred.\n\nFor the best flavor, always use freshly squeezed lemon juice rather than bottled."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "collins"
+  },
+  {
+    "slug": "vesper-martini",
+    "sourceFile": "Vesper martini.md",
+    "title": "Vesper Martini",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "vodka",
+      "lillet",
+      "martini",
+      "classic"
+    ],
+    "glassware": "Martini glass or coupe",
+    "storage": null,
+    "strength": 9,
+    "taste": 8,
+    "image": null,
+    "description": "The Vesper Martini is a sophisticated cocktail with a literary pedigree, famously created by author Ian Fleming for his character James Bond in the 1953 novel \"Casino Royale.\" Bond orders this drink with the precise instructions: \"Three measures of Gordon's, one of vodka, half a measure of Kina Lillet. Shake it very well until it's ice-cold, then add a large thin slice of lemon peel.\" The cocktail was named after the novel's female lead, Vesper Lynd. Unlike a traditional martini, the Vesper combines both gin and vodka with Lillet Blanc (which replaced the original Kina Lillet when it was discontinued). This creates a smooth yet potent cocktail with subtle herbal and citrus notes. While Bond famously preferred his \"shaken, not stirred,\" most bartenders recommend stirring to achieve the silky texture expected of a proper martini.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "1 oz Vodka",
+            "role": "required",
+            "canonical": [
+              "vodka"
+            ]
+          },
+          {
+            "raw": "0.5 oz Lillet Blanc",
+            "role": "required",
+            "canonical": [
+              "lillet-blanc"
+            ]
+          },
+          {
+            "raw": "2 dashes Orange bitters",
+            "role": "required",
+            "canonical": [
+              "orange-bitters"
+            ]
+          },
+          {
+            "raw": "Garnish: Lemon peel",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "lillet-blanc-with-frozen-orange-slice",
+        "label": "Lillet Blanc with Frozen Orange Slice"
+      },
+      {
+        "slug": "french-75",
+        "label": "French 75"
+      },
+      {
+        "slug": "mexican-martini",
+        "label": "Mexican Martini"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz Gin\n- 1 oz Vodka\n- 0.5 oz Lillet Blanc\n- 2 dashes Orange bitters\n- Garnish: Lemon peel\n\n**Glassware:** Martini glass or coupe"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Chill a martini glass or coupe in the freezer or by filling it with ice and water.\n2. Combine gin, vodka, Lillet Blanc, and orange bitters in a mixing glass.\n3. Add ice and stir until well-chilled, about 20 seconds.\n4. Empty the ice water from the chilled glass if using that method.\n5. Strain the cocktail into the chilled glass.\n6. Cut a piece of lemon peel, express the oils over the drink by twisting it, and drop it into the glass as garnish.\n7. Serve immediately."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The original Kina Lillet called for in Fleming's recipe has been reformulated and is now sold as Lillet Blanc, which is less bitter. For a closer approximation to the original Vesper, you can add a small dash of bitters to compensate for the missing quinine bitterness.\n\nThis is a strong cocktail with approximately 3 ounces of straight spirits. Consider yourself warned, as James Bond himself might say.\n\nWhile Bond ordered his Vesper shaken, most bartenders recommend stirring this cocktail to maintain clarity and achieve the proper dilution and texture."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "martini"
+  },
+  {
+    "slug": "virgin-pina-colada",
+    "sourceFile": "Virgin Pina Colada.md",
+    "title": "Virgin Piña Colada",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Non-Alcoholic",
+    "servings": "2 servings",
+    "tags": [
+      "non-alcoholic",
+      "pineapple",
+      "coconut",
+      "frozen",
+      "tropical",
+      "mocktail"
+    ],
+    "glassware": "Hurricane glass or tall glass",
+    "storage": null,
+    "strength": 1,
+    "taste": 1,
+    "image": null,
+    "description": "The Virgin Piña Colada is a non-alcoholic version of the classic tropical cocktail, offering all the creamy, fruity goodness without the rum. This frozen treat combines the rich sweetness of cream of coconut with tangy pineapple and a hint of lime for balance. The addition of rum extract provides a subtle flavor reminiscent of the original cocktail without the alcohol. Perfect for those who don't drink alcohol, designated drivers, pregnant women, or anyone who wants to enjoy a tropical vacation in a glass without the boozy effects. This refreshing frozen drink is ideal for hot summer days, pool parties, or whenever you want to feel like you're relaxing on a Caribbean beach.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1 cup (8 oz) Cream of coconut",
+            "role": "required",
+            "canonical": [
+              "coconut-cream"
+            ]
+          },
+          {
+            "raw": "3/4 cup (6 oz) Pineapple juice",
+            "role": "required",
+            "canonical": [
+              "pineapple-juice"
+            ]
+          },
+          {
+            "raw": "2 tablespoons Fresh lime juice (about 1 lime)",
+            "role": "required",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "1 teaspoon Rum extract",
+            "role": "required",
+            "canonical": [
+              "rum-extract"
+            ]
+          },
+          {
+            "raw": "10 oz Frozen pineapple chunks (about 3 cups)",
+            "role": "required",
+            "canonical": [
+              "pineapple"
+            ]
+          },
+          {
+            "raw": "Garnish: Maraschino cherries (optional)",
+            "role": "garnish",
+            "canonical": [
+              "cocktail-cherry"
+            ]
+          },
+          {
+            "raw": "Garnish: Fresh chopped pineapple (optional)",
+            "role": "garnish",
+            "canonical": [
+              "pineapple"
+            ]
+          },
+          {
+            "raw": "Garnish: Pineapple leaves (optional)",
+            "role": "garnish",
+            "canonical": [
+              "pineapple"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "pina-colada",
+        "label": "Piña Colada"
+      },
+      {
+        "slug": "frozen-espresso-martini",
+        "label": "Frozen Espresso Martini"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1 cup (8 oz) Cream of coconut\n- 3/4 cup (6 oz) Pineapple juice\n- 2 tablespoons Fresh lime juice (about 1 lime)\n- 1 teaspoon Rum extract\n- 10 oz Frozen pineapple chunks (about 3 cups)\n- Garnish: Maraschino cherries (optional)\n- Garnish: Fresh chopped pineapple (optional)\n- Garnish: Pineapple leaves (optional)\n\n**Glassware:** Hurricane glass or tall glass"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Add cream of coconut, pineapple juice, lime juice, rum extract, and frozen pineapple chunks to a blender.\n2. Blend until all ingredients are combined but still slightly chunky.\n3. Transfer the mixture to a container and freeze for about 45 minutes to thicken.\n4. Return the partially frozen mixture to the blender and blend again until smooth and creamy.\n5. Pour into hurricane glasses or tall glasses.\n6. Garnish generously with maraschino cherries, fresh pineapple chunks, and pineapple leaves if desired.\n7. Serve immediately with a straw."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "Cream of coconut is different from coconut cream or coconut milk. It's sweetened and has a thicker consistency, typically found in the mixer section of grocery stores. Popular brands include Coco Lopez and Coco Real.\n\nFor a thicker drink, you can add more frozen pineapple or a cup of ice. For a thinner consistency, add more pineapple juice.\n\nThe rum extract adds the characteristic flavor of a traditional Piña Colada without the alcohol. If you don't have rum extract, you can substitute with a small amount of vanilla extract and a pinch of almond extract."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "hurricane"
+  },
+  {
+    "slug": "watermelon-cocktail",
+    "sourceFile": "Watermelon Cocktail.md",
+    "title": "Watermelon Cocktail",
+    "status": "tested",
+    "dateAdded": "Thu May 21 2026 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Wine-Based",
+    "servings": "1 serving",
+    "tags": [
+      "wine",
+      "fruity",
+      "sweet",
+      "summer",
+      "pool",
+      "brunch",
+      "modern"
+    ],
+    "glassware": "Wine glass or champagne flute",
+    "storage": null,
+    "strength": 3,
+    "taste": 4,
+    "image": null,
+    "description": "The Watermelon Cocktail is a simple, refreshing two-ingredient summer drink that pairs fresh watermelon juice with crisp, dry prosecco. The natural sweetness of the watermelon balances the bubbly, slightly tart prosecco, producing a light and easy-drinking cocktail that's ideal for poolside afternoons, brunch, or any warm-weather gathering. A squeeze of lime adds brightness, and a touch of simple syrup turns it into a proper \"Watermelon Spritz\" with a sweet-and-sour profile. Read more at [The Takeout](https://www.thetakeout.com/2173212/watermelon-two-ingredient-summer-cocktail/).",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "3 oz fresh watermelon juice (chilled)",
+            "role": "required",
+            "canonical": [
+              "watermelon"
+            ]
+          },
+          {
+            "raw": "3 oz prosecco (chilled)",
+            "role": "required",
+            "canonical": [
+              "sparkling-wine"
+            ]
+          },
+          {
+            "raw": "0.25 oz fresh lime juice (optional)",
+            "role": "optional",
+            "canonical": [
+              "lime"
+            ]
+          },
+          {
+            "raw": "0.25 oz simple syrup (optional, for a sweeter \"Watermelon Spritz\")",
+            "role": "optional",
+            "canonical": [
+              "watermelon"
+            ]
+          },
+          {
+            "raw": "Ice",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "Watermelon wedge and mint sprig, for garnish",
+            "role": "garnish",
+            "canonical": [
+              "watermelon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "french-75",
+        "label": "French 75"
+      },
+      {
+        "slug": "lillet-blanc-with-frozen-orange-slice",
+        "label": "Lillet Blanc with Frozen Orange Slice"
+      },
+      {
+        "slug": "spaghett",
+        "label": "Spaghett"
+      },
+      {
+        "slug": "cucumber-chill",
+        "label": "Cucumber Chill"
+      },
+      {
+        "slug": "ranch-water",
+        "label": "Ranch Water"
+      }
+    ],
+    "video": null,
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 3 oz fresh watermelon juice (chilled)\n- 3 oz prosecco (chilled)\n- 0.25 oz fresh lime juice (optional)\n- 0.25 oz simple syrup (optional, for a sweeter \"Watermelon Spritz\")\n- Ice\n- Watermelon wedge and mint sprig, for garnish"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Cube about 2 cups of seedless watermelon and blend until smooth. Strain through a fine-mesh sieve into a measuring cup to yield roughly 3 oz of juice per serving.\n2. Fill a wine glass or champagne flute with ice (omit ice if using a flute and you prefer it neat).\n3. Pour in the chilled watermelon juice.\n4. If desired, add the lime juice (and simple syrup for a spritz-style drink) and stir gently.\n5. Top with chilled prosecco.\n6. Give one light stir to combine without losing carbonation. Garnish with a small watermelon wedge and a sprig of mint.\n\n### To Batch (Pitcher)\n\n1. Blend and strain enough watermelon to yield 3 cups of juice.\n2. Combine the watermelon juice with one 750 ml bottle of prosecco in a chilled pitcher.\n3. Add the juice of 1 lime for brightness, or lime juice plus 1–2 oz simple syrup for a sweeter spritz.\n4. Stir gently and serve immediately over ice."
+      },
+      {
+        "heading": "Garnish Suggestions",
+        "kind": "other",
+        "md": "- Thin watermelon wedge on the rim\n- Fresh mint sprig\n- Lime wheel\n- A few small watermelon balls dropped into the glass"
+      },
+      {
+        "heading": "Variations/Adaptations",
+        "kind": "other",
+        "md": "- **Watermelon Spritz:** Add 0.25 oz lime juice and 0.25 oz simple syrup before topping with prosecco for a sweet-and-sour spritz profile.\n- **Frozen:** Blend the watermelon with ice instead of juicing for a slushy frozen version, then top with prosecco.\n- **Spiked:** Add 1 oz vodka or gin for a boozier pour.\n- **Herbal:** Muddle a few basil or mint leaves in the glass before pouring.\n- **Non-alcoholic:** Swap the prosecco for sparkling water or a non-alcoholic sparkling wine."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "- Use a ripe, in-season watermelon for the best flavor. The riper the fruit, the less (if any) simple syrup you'll need.\n- Strain the juice through a fine-mesh sieve or cheesecloth to keep the drink light and clean.\n- Watermelon juice oxidizes quickly. Make it the same day and keep it cold.\n- Use a dry prosecco (Brut or Extra Dry) so the cocktail doesn't get cloying.\n\n### How Much Watermelon to Buy\n\nCubed watermelon yields roughly half its volume in strained juice.\n\n- **Single drink (3 oz juice):** ~1 to 1.5 cups cubed flesh (~6–8 oz by weight).\n- **Batch with 1 bottle of prosecco (3 cups juice):** ~6 cups cubed flesh (~3 lb of flesh).\n- **Whole-fruit guidance:**\n  - Personal/mini watermelon (3–5 lb whole) → about 2–3.5 lb of flesh → one batch.\n  - Small whole watermelon (8–10 lb) → about 5–7 lb of flesh → two batches with leftovers.\n  - Standard watermelon (15–20 lb) → far more than you need; plan to use the leftovers for snacking or freeze for future cocktails."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "flute"
+  },
+  {
+    "slug": "white-lady",
+    "sourceFile": "White Lady.md",
+    "title": "White Lady",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "gin",
+      "cointreau",
+      "eggwhite",
+      "classic",
+      "sour"
+    ],
+    "glassware": "Cocktail glass (coupe or martini glass)",
+    "storage": null,
+    "strength": 7,
+    "taste": 7,
+    "image": null,
+    "description": "The White Lady is a classic cocktail that dates back to the 1920s, with its creation often attributed to Harry MacElhone, first at Ciro's Club in London and later at Harry's New York Bar in Paris. This elegant, pale cocktail is essentially a gin-based sidecar with the addition of egg white for a silky texture and frothy top. The combination of gin, orange liqueur, fresh lemon juice, and egg white creates a perfectly balanced drink that is simultaneously strong, citrusy, and smooth. The White Lady has stood the test of time as a sophisticated classic that showcases the art of proper cocktail technique, particularly the dry shake method that creates its signature foam.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "1.5 oz Gin",
+            "role": "required",
+            "canonical": [
+              "gin"
+            ]
+          },
+          {
+            "raw": "0.75 oz Cointreau",
+            "role": "required",
+            "canonical": [
+              "orange-liqueur"
+            ]
+          },
+          {
+            "raw": "0.75 oz Fresh lemon juice",
+            "role": "required",
+            "canonical": [
+              "lemon"
+            ]
+          },
+          {
+            "raw": "0.25 oz Simple syrup",
+            "role": "required",
+            "canonical": [
+              "simple-syrup"
+            ]
+          },
+          {
+            "raw": "1 Egg white from one small egg (or 0.75 oz aquafaba)",
+            "role": "required",
+            "canonical": [
+              "egg-white"
+            ]
+          },
+          {
+            "raw": "Garnish: Lemon zest",
+            "role": "garnish",
+            "canonical": [
+              "lemon"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "gin-sour",
+        "label": "Gin Sour"
+      },
+      {
+        "slug": "gin-fizz",
+        "label": "Gin Fizz"
+      },
+      {
+        "slug": "ramos-gin-fizz",
+        "label": "Ramos Gin Fizz"
+      },
+      {
+        "slug": "aperol-sour",
+        "label": "Aperol Sour"
+      }
+    ],
+    "video": "IAmf7XqE0T8",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 1.5 oz Gin\n- 0.75 oz Cointreau\n- 0.75 oz Fresh lemon juice\n- 0.25 oz Simple syrup\n- 1 Egg white from one small egg (or 0.75 oz aquafaba)\n- Garnish: Lemon zest\n\n**Glassware:** Cocktail glass (coupe or martini glass)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Combine gin, Cointreau, fresh lemon juice, simple syrup, and egg white (or aquafaba) in a cocktail shaker without ice.\n2. Dry shake vigorously for about 10 seconds to emulsify the egg white.\n3. Add ice to the shaker and shake again for about 10 seconds until well-chilled.\n4. Double strain into a chilled cocktail glass to ensure a smooth texture.\n5. Express lemon zest over the top of the drink and lightly rim the edge of the glass with the zest.\n6. Discard the zest or place it on the rim of the glass as garnish."
+      },
+      {
+        "heading": "Simple Syrup",
+        "kind": "other",
+        "md": "1. Combine equal parts sugar and water in a small saucepan.\n2. Heat over medium heat, stirring until sugar is completely dissolved.\n3. Allow to cool before using.\n4. Store in a sealed container in the refrigerator for up to one month."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "When working with raw egg white, always use the freshest eggs possible and be aware of the potential risks associated with consuming raw eggs.\n\nAquafaba (the liquid from canned chickpeas) makes an excellent vegan substitute for egg white in this cocktail, providing similar foaming properties.\n\nThe double strain (using both a Hawthorne strainer and a fine mesh strainer) is important for achieving the silky smooth texture that is characteristic of this cocktail."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "martini"
+  },
+  {
+    "slug": "wisconsin-old-fashioned",
+    "sourceFile": "Wisconsin Old Fashioned.md",
+    "title": "Wisconsin Old Fashioned",
+    "status": "tested",
+    "dateAdded": "Sun Mar 30 2025 19:00:00 GMT-0500 (Central Daylight Time)",
+    "category": "Spirit-Based",
+    "servings": "1 serving",
+    "tags": [
+      "brandy",
+      "bitters",
+      "cherry",
+      "orange",
+      "muddled",
+      "regional"
+    ],
+    "glassware": "Rocks glass (Old Fashioned glass)",
+    "storage": null,
+    "strength": 5,
+    "taste": 3,
+    "image": null,
+    "description": "The Wisconsin Old Fashioned is a regional variation of the classic Old Fashioned cocktail that has become deeply embedded in the state's drinking culture. Unlike the traditional whiskey-based version, the Wisconsin Old Fashioned typically uses brandy (often Korbel) as its base spirit, a preference that dates back to the 1893 World's Columbian Exposition in Chicago, where many German-Wisconsin residents were introduced to California brandy. This version is also distinguished by its muddled fruit (orange and cherry), sugar cube soaked in bitters, and the option to finish it \"sweet\" (with lemon-lime soda), \"sour\" (with sour mix or grapefruit soda), or \"press\" (with half lemon-lime soda and half seltzer). The Wisconsin Old Fashioned is more than just a cocktail—it's a cultural institution found in supper clubs and taverns throughout the state.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "raw": "2 oz Brandy (preferably Korbel)",
+            "role": "required",
+            "canonical": [
+              "brandy"
+            ]
+          },
+          {
+            "raw": "1 Sugar cube",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "3 dashes Angostura bitters",
+            "role": "required",
+            "canonical": [
+              "angostura-bitters"
+            ]
+          },
+          {
+            "raw": "1 Orange slice",
+            "role": "required",
+            "canonical": [
+              "orange"
+            ]
+          },
+          {
+            "raw": "1 Maraschino cherry",
+            "role": "required",
+            "canonical": [
+              "cocktail-cherry"
+            ]
+          },
+          {
+            "raw": "Splash of water",
+            "role": "assumed",
+            "canonical": []
+          },
+          {
+            "raw": "Top with choice of:",
+            "role": "required",
+            "canonical": [
+              "lemon-lime-soda",
+              "grapefruit-soda",
+              "soda-water"
+            ]
+          },
+          {
+            "raw": "Sweet: 7-Up or Sprite (lemon-lime soda)",
+            "role": "note",
+            "canonical": []
+          },
+          {
+            "raw": "Sour: Sour mix or Squirt (grapefruit soda)",
+            "role": "note",
+            "canonical": []
+          },
+          {
+            "raw": "Press: Half lemon-lime soda, half seltzer",
+            "role": "note",
+            "canonical": []
+          },
+          {
+            "raw": "Garnish: Additional orange slice and maraschino cherry",
+            "role": "garnish",
+            "canonical": [
+              "orange"
+            ]
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "slug": "old-fashioned",
+        "label": "Old Fashioned"
+      },
+      {
+        "slug": "paper-plane",
+        "label": "Paper Plane"
+      }
+    ],
+    "video": "wr1pjEwi4P0",
+    "sections": [
+      {
+        "heading": "Ingredients",
+        "kind": "ingredients",
+        "md": "- 2 oz Brandy (preferably Korbel)\n- 1 Sugar cube\n- 3 dashes Angostura bitters\n- 1 Orange slice\n- 1 Maraschino cherry\n- Splash of water\n- Top with choice of:\n  - Sweet: 7-Up or Sprite (lemon-lime soda)\n  - Sour: Sour mix or Squirt (grapefruit soda)\n  - Press: Half lemon-lime soda, half seltzer\n- Garnish: Additional orange slice and maraschino cherry\n\n**Glassware:** Rocks glass (Old Fashioned glass)"
+      },
+      {
+        "heading": "Directions",
+        "kind": "directions",
+        "md": "1. Place the sugar cube in a rocks glass.\n2. Saturate the sugar cube with Angostura bitters.\n3. Add a splash of water.\n4. Add the orange slice and maraschino cherry to the glass.\n5. Muddle the sugar, bitters, water, orange slice, and cherry until the sugar is dissolved and the fruit is well-muddled.\n6. Add ice to the glass (traditionally a large ice cube or several smaller cubes).\n7. Pour in the brandy.\n8. Top with your choice of mixer (sweet, sour, or press).\n9. Stir gently to combine.\n10. Garnish with an additional orange slice and maraschino cherry."
+      },
+      {
+        "heading": "Notes/Tips",
+        "kind": "other",
+        "md": "The Wisconsin Old Fashioned is a highly regional cocktail that differs significantly from the classic Old Fashioned. While purists might scoff at the muddled fruit and soda, this version has a rich cultural history in Wisconsin and is beloved by locals.\n\nFor the most authentic experience, use Korbel brandy, which has been the preferred brand in Wisconsin for generations.\n\nThe \"press\" version (short for Presbyterian) is a popular middle ground between sweet and sour, offering a less sweet option that still maintains the character of the drink."
+      }
+    ],
+    "type": "cocktail",
+    "glasswareKey": "rocks"
+  }
+]

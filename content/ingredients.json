@@ -1,0 +1,266 @@
+[
+  {
+    "group": "Spirits",
+    "items": [
+      {
+        "id": "tequila-blanco",
+        "name": "Tequila (blanco/silver)"
+      },
+      {
+        "id": "tequila-reposado",
+        "name": "Tequila (reposado)"
+      },
+      {
+        "id": "tequila-anejo",
+        "name": "Tequila (añejo)"
+      },
+      {
+        "id": "gin",
+        "name": "Gin"
+      },
+      {
+        "id": "vodka",
+        "name": "Vodka"
+      },
+      {
+        "id": "bourbon",
+        "name": "Bourbon"
+      },
+      {
+        "id": "rye-whiskey",
+        "name": "Rye whiskey"
+      },
+      {
+        "id": "brandy",
+        "name": "Brandy"
+      },
+      {
+        "id": "cognac",
+        "name": "Cognac"
+      },
+      {
+        "id": "rum-white",
+        "name": "White rum"
+      },
+      {
+        "id": "rum-dark",
+        "name": "Dark rum"
+      }
+    ]
+  },
+  {
+    "group": "Liqueurs & Fortified",
+    "items": [
+      {
+        "id": "orange-liqueur",
+        "name": "Orange liqueur (Cointreau / triple sec)"
+      },
+      {
+        "id": "coffee-liqueur",
+        "name": "Coffee liqueur (Mr. Black / Kahlua)"
+      },
+      {
+        "id": "aperol",
+        "name": "Aperol"
+      },
+      {
+        "id": "amaro-nonino",
+        "name": "Amaro Nonino"
+      },
+      {
+        "id": "creme-de-cacao",
+        "name": "Crème de cacao"
+      },
+      {
+        "id": "lillet-blanc",
+        "name": "Lillet Blanc"
+      },
+      {
+        "id": "sparkling-wine",
+        "name": "Champagne / prosecco"
+      }
+    ]
+  },
+  {
+    "group": "Bitters & Extracts",
+    "items": [
+      {
+        "id": "angostura-bitters",
+        "name": "Angostura bitters"
+      },
+      {
+        "id": "orange-bitters",
+        "name": "Orange bitters"
+      },
+      {
+        "id": "orange-blossom-water",
+        "name": "Orange blossom water"
+      },
+      {
+        "id": "caramel-extract",
+        "name": "Caramel extract"
+      },
+      {
+        "id": "butter-extract",
+        "name": "Butter extract"
+      },
+      {
+        "id": "rum-extract",
+        "name": "Rum extract"
+      }
+    ]
+  },
+  {
+    "group": "Mixers & Sodas",
+    "items": [
+      {
+        "id": "soda-water",
+        "name": "Soda water / Topo Chico"
+      },
+      {
+        "id": "ginger-beer",
+        "name": "Ginger beer"
+      },
+      {
+        "id": "cream-soda",
+        "name": "Cream soda"
+      },
+      {
+        "id": "lemon-lime-soda",
+        "name": "Lemon-lime soda (7-Up/Sprite)"
+      },
+      {
+        "id": "grapefruit-soda",
+        "name": "Grapefruit soda (Squirt)"
+      },
+      {
+        "id": "light-beer",
+        "name": "Light beer (Miller High Life)"
+      },
+      {
+        "id": "pineapple-juice",
+        "name": "Pineapple juice"
+      }
+    ]
+  },
+  {
+    "group": "Fresh & Juices",
+    "items": [
+      {
+        "id": "lime",
+        "name": "Fresh limes"
+      },
+      {
+        "id": "lemon",
+        "name": "Fresh lemons"
+      },
+      {
+        "id": "orange",
+        "name": "Fresh oranges"
+      },
+      {
+        "id": "grapefruit",
+        "name": "Fresh grapefruit"
+      },
+      {
+        "id": "cucumber",
+        "name": "Cucumber (for juice)"
+      },
+      {
+        "id": "watermelon",
+        "name": "Watermelon (for juice)"
+      },
+      {
+        "id": "pineapple",
+        "name": "Pineapple (fresh/frozen)"
+      },
+      {
+        "id": "sugarcane-juice",
+        "name": "Sugarcane juice"
+      },
+      {
+        "id": "rosemary",
+        "name": "Fresh rosemary"
+      }
+    ]
+  },
+  {
+    "group": "Dairy & Eggs",
+    "items": [
+      {
+        "id": "cream",
+        "name": "Cream / half-and-half"
+      },
+      {
+        "id": "egg-white",
+        "name": "Egg whites (or aquafaba)"
+      },
+      {
+        "id": "coconut-cream",
+        "name": "Coconut cream"
+      },
+      {
+        "id": "almond-milk",
+        "name": "Almond milk"
+      }
+    ]
+  },
+  {
+    "group": "Syrups & Sweeteners",
+    "items": [
+      {
+        "id": "simple-syrup",
+        "name": "Simple syrup"
+      },
+      {
+        "id": "demerara-syrup",
+        "name": "Rich demerara syrup"
+      },
+      {
+        "id": "lychee-syrup",
+        "name": "Lychee syrup"
+      },
+      {
+        "id": "agave-nectar",
+        "name": "Agave nectar"
+      },
+      {
+        "id": "butterscotch-topping",
+        "name": "Butterscotch topping"
+      },
+      {
+        "id": "powdered-sugar",
+        "name": "Powdered sugar"
+      }
+    ]
+  },
+  {
+    "group": "Pantry & Garnish",
+    "items": [
+      {
+        "id": "espresso",
+        "name": "Espresso (fresh brewed)"
+      },
+      {
+        "id": "cocktail-cherry",
+        "name": "Cocktail cherries (Luxardo/maraschino)"
+      },
+      {
+        "id": "green-olives",
+        "name": "Green olives & brine"
+      },
+      {
+        "id": "nutmeg",
+        "name": "Nutmeg"
+      },
+      {
+        "id": "salt",
+        "name": "Coarse/fine salt (for rims)"
+      },
+      {
+        "id": "chocolate",
+        "name": "Dark chocolate"
+      }
+    ]
+  }
+]
