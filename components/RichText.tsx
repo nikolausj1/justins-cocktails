@@ -5,10 +5,15 @@ marked.setOptions({ gfm: true, breaks: false });
 
 function mdToHtml(md: string): string {
   const html = marked.parse(md, { async: false }) as string;
-  // external links open in a new tab
-  return html.replace(
-    /<a href="(https?:\/\/[^"]+)"/g,
-    '<a target="_blank" rel="noopener noreferrer" href="$1"'
+  return (
+    html
+      // external links open in a new tab
+      .replace(
+        /<a href="(https?:\/\/[^"]+)"/g,
+        '<a target="_blank" rel="noopener noreferrer" href="$1"'
+      )
+      // body images are below the fold — never let them race the hero (LCP)
+      .replace(/<img /g, '<img loading="lazy" decoding="async" ')
   );
 }
 

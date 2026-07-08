@@ -98,6 +98,42 @@ body {
   font-size: 1.1rem;
   margin: 1.5em 0 0.6em;
 }
+
+/* numbered directions with trackable circled step markers (kitchen-friendly) */
+.rich.steps ol {
+  counter-reset: steps;
+  margin: 0;
+  padding-left: 0;
+}
+.rich.steps ol > li {
+  counter-increment: steps;
+  position: relative;
+  min-height: 1.9rem;
+  padding-left: 2.9rem;
+  margin-bottom: 1.05em;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+.rich.steps ol > li:last-child {
+  margin-bottom: 0;
+}
+.rich.steps ol > li::before {
+  content: counter(steps);
+  position: absolute;
+  left: 0;
+  top: -0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  font-family: var(--font-serif);
+  font-style: normal;
+  font-size: 0.9rem;
+  color: var(--color-fir);
+  border: 1px solid color-mix(in srgb, var(--color-fir) 32%, transparent);
+  border-radius: 9999px;
+}
 .rich strong {
   font-weight: 600;
 }

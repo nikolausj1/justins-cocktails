@@ -143,9 +143,9 @@ async function downloadImage(url, slug, n) {
         file = jpgFile;
       }
     }
-    // 800px card-size companion for grid/featured tiles
+    // card-size companion for grid/featured tiles and recipe heros (the LCP)
     const cardName = name.replace(/(\.\w+)$/, '-card$1');
-    spawnSync('sips', ['-s', 'format', 'jpeg', '-s', 'formatOptions', '70', '-Z', '640', file, '--out', path.join(IMG_DIR, cardName)], { stdio: 'ignore' });
+    spawnSync('sips', ['-s', 'format', 'jpeg', '-s', 'formatOptions', '64', '-Z', '600', file, '--out', path.join(IMG_DIR, cardName)], { stdio: 'ignore' });
     const size = fs.statSync(file).size;
     report.downloaded.push(`- ${name} (${Math.round(size / 1024)} KB) from ${url.slice(0, 80)}…`);
     return `/images/${name}`;

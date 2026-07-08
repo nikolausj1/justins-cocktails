@@ -64,8 +64,27 @@ export default async function RecipePage({
     recipe.storage ? `Store: ${recipe.storage}` : null,
   ].filter(Boolean);
 
+  // Ingredients + Directions form the "recipe core" — a distinct cookbook card.
+  // Only when both exist; otherwise fall back to linear sections (e.g. syrups).
+  const directionsSection = recipe.sections.find((s) => s.kind === "directions");
+  const ingredientsSection = recipe.sections.find((s) => s.kind === "ingredients");
+  const hasCore = Boolean(directionsSection && ingredientsSection);
+  const hasGlance = recipe.strength !== null || recipe.taste !== null;
+  const supportingSections = recipe.sections.filter(
+    (s) => s.kind !== "ingredients" && s.kind !== "directions"
+  );
+
   return (
     <main className="mx-auto max-w-3xl px-5 py-10">
+      {/* hero photo is the LCP — pull it forward (React hoists to <head>) */}
+      {recipe.image && (
+        <link
+          rel="preload"
+          as="image"
+          href={recipe.imageCard ?? recipe.image}
+          fetchPriority="high"
+        />
+      )}
       <nav className="no-print text-sm text-ink-soft">
         <Link href="/" className="hover:text-fir">
           ← All recipes
@@ -99,23 +118,23 @@ export default async function RecipePage({
       </header>
 
       {/* hero + meters */}
-      <div className="mt-8 grid gap-6 sm:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
-        <div className="relative overflow-hidden border border-hairline bg-cream-deep">
-          {recipe.image ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={recipe.imageCard ?? recipe.image}
-              alt={recipe.title}
-              fetchPriority="high"
-              className="h-full w-full object-cover"
-            />
-          ) : (
-            <div className="flex aspect-[4/3] items-center justify-center text-ink-soft">
-              <Glassware keyName={recipe.glasswareKey} className="h-36 w-36" />
-            </div>
-          )}
-        </div>
-        {(recipe.strength !== null || recipe.taste !== null) && (
+      {hasGlance ? (
+        <div className="mt-8 grid gap-6 sm:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
+          <div className="relative overflow-hidden border border-hairline bg-cream-deep">
+            {recipe.image ? (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                src={recipe.imageCard ?? recipe.image}
+                alt={recipe.title}
+                fetchPriority="high"
+                className="h-full w-full object-cover"
+              />
+            ) : (
+              <div className="flex aspect-[4/3] items-center justify-center text-ink-soft">
+                <Glassware keyName={recipe.glasswareKey} className="h-36 w-36" />
+              </div>
+            )}
+          </div>
           <div className="flex flex-col border border-hairline px-5 py-6">
             <p className="text-[11px] uppercase tracking-[0.16em] text-fir">At a glance</p>
             <div className="mt-5 flex flex-col gap-5">
@@ -130,37 +149,83 @@ export default async function RecipePage({
               <p className="text-xs leading-relaxed text-ink-soft">
                 {recipe.glassware ?? "Serve chilled"}
               </p>
-              <Glassware
-                keyName={recipe.glasswareKey}
-                className="h-14 w-14 shrink-0 text-fir/70"
-              />
+              <Glassware keyName={recipe.glasswareKey} className="h-14 w-14 shrink-0 text-fir/70" />
             </div>
           </div>
-        )}
-      </div>
-
-      {/* description */}
-      {recipe.description && (
-        <div className="mt-8">
-          <RichText md={recipe.description} className="text-[15px]" />
+        </div>
+      ) : (
+        <div className="mt-8 overflow-hidden border border-hairline bg-cream-deep">
+          {recipe.image ? (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              src={recipe.imageCard ?? recipe.image}
+              alt={recipe.title}
+              fetchPriority="high"
+              className="max-h-96 w-full object-cover"
+            />
+          ) : (
+            <div className="flex items-center justify-center py-14 text-fir/60">
+              <Glassware keyName={recipe.glasswareKey} className="h-28 w-28" />
+            </div>
+          )}
         </div>
       )}
 
-      {/* body sections in vault order */}
-      {recipe.sections.map((section, i) => (
+      {/* description */}
+      {recipe.description && (
+        <div className="mt-8 max-w-[68ch]">
+          <RichText md={recipe.description} className="text-base" />
+        </div>
+      )}
+
+      {/* recipe core: ingredients + directions read as one cookbook card */}
+      {hasCore ? (
+        <div className="mt-10 grid overflow-hidden border border-hairline sm:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
+          <div className="border-b border-hairline bg-cream-deep/50 p-6 sm:border-b-0 sm:border-r sm:p-7">
+            <h2 className="font-serif text-2xl tracking-tight">Ingredients</h2>
+            <div className="mt-4">
+              <IngredientPanel
+                groups={recipe.ingredientGroups}
+                recipeTitle={recipe.title}
+                crossLinks={slug === "rich-demerara-syrup" ? [] : CROSS_LINKS}
+              />
+            </div>
+          </div>
+          <div className="p-6 sm:p-7">
+            <h2 className="font-serif text-2xl tracking-tight">Directions</h2>
+            <div className="mt-4">
+              <RichText md={directionsSection!.md} className="steps" />
+            </div>
+          </div>
+        </div>
+      ) : (
+        recipe.sections
+          .filter((s) => s.kind === "ingredients" || s.kind === "directions")
+          .map((section, i) => (
+            <section key={`core-${i}`} className="mt-10 border-t border-hairline pt-8">
+              {section.heading && (
+                <h2 className="mb-4 font-serif text-2xl tracking-tight">{section.heading}</h2>
+              )}
+              {section.kind === "ingredients" ? (
+                <IngredientPanel
+                  groups={recipe.ingredientGroups}
+                  recipeTitle={recipe.title}
+                  crossLinks={slug === "rich-demerara-syrup" ? [] : CROSS_LINKS}
+                />
+              ) : (
+                <RichText md={section.md} className="steps" />
+              )}
+            </section>
+          ))
+      )}
+
+      {/* supporting sections in vault order (quality guide, equipment, notes…) */}
+      {supportingSections.map((section, i) => (
         <section key={i} className="mt-10 border-t border-hairline pt-8">
           {section.heading && (
             <h2 className="mb-4 font-serif text-2xl tracking-tight">{section.heading}</h2>
           )}
-          {section.kind === "ingredients" ? (
-            <IngredientPanel
-              groups={recipe.ingredientGroups}
-              recipeTitle={recipe.title}
-              crossLinks={slug === "rich-demerara-syrup" ? [] : CROSS_LINKS}
-            />
-          ) : (
-            <RichText md={section.md} className="text-[15px]" />
-          )}
+          <RichText md={section.md} className="text-base max-w-[68ch]" />
         </section>
       ))}
 
