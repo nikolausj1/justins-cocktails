@@ -103,7 +103,12 @@ export default async function RecipePage({
         <div className="relative overflow-hidden border border-hairline bg-cream-deep">
           {recipe.image ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={recipe.image} alt={recipe.title} className="h-full w-full object-cover" />
+            <img
+              src={recipe.imageCard ?? recipe.image}
+              alt={recipe.title}
+              fetchPriority="high"
+              className="h-full w-full object-cover"
+            />
           ) : (
             <div className="flex aspect-[4/3] items-center justify-center text-ink-soft">
               <Glassware keyName={recipe.glasswareKey} className="h-36 w-36" />

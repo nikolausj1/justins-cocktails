@@ -24,6 +24,18 @@ const IMG_DIR = path.join(SITE_ROOT, 'public', 'images');
 
 const EXCLUDE_FILES = new Set(['-Bar Inventory.md', 'Untitled.md']);
 
+// Temporary web-sourced photos for recipes the vault has no image for.
+// Curated in data/placeholder-images.json; Justin swaps them out over time.
+const PLACEHOLDERS = (() => {
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(SITE_ROOT, 'data', 'placeholder-images.json'), 'utf8'));
+    delete raw._comment;
+    return raw;
+  } catch {
+    return {};
+  }
+})();
+
 const report = { warnings: [], unmatchedIngredients: [], downloaded: [], missingImages: [], droppedLinks: [] };
 const warn = (file, msg) => report.warnings.push(`- **${file}**: ${msg}`);
 
@@ -101,7 +113,18 @@ function extImageRefs(md) {
 
 async function downloadImage(url, slug, n) {
   try {
-    const res = await fetch(url, { redirect: 'follow' });
+    let res;
+    for (let attempt = 0; ; attempt++) {
+      res = await fetch(url, {
+        redirect: 'follow',
+        headers: { 'User-Agent': 'JustinsCocktailsImporter/1.0 (personal recipe site)' },
+      });
+      if (res.status === 429 && attempt < 5) {
+        await new Promise((r) => setTimeout(r, 8000 * (attempt + 1)));
+        continue;
+      }
+      break;
+    }
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const buf = Buffer.from(await res.arrayBuffer());
     const ct = res.headers.get('content-type') || '';
@@ -387,6 +410,17 @@ async function main() {
         const parsed = parseIngredientLines(s.md);
         const quantified = parsed.groups.flatMap((g) => g.items).filter((i) => /\b(tsp|tbsp|teaspoons?|tablespoons?|cups?|oz|parts?)\b/i.test(i.raw));
         if (quantified.length >= 2) { rec.ingredientGroups = parsed.groups; break; }
+      }
+    }
+
+    // no vault image? use the curated web placeholder until Justin shoots his own
+    rec.imageIsPlaceholder = false;
+    if (!rec.image && PLACEHOLDERS[slug]) {
+      await new Promise((r) => setTimeout(r, 1500)); // stay under Wikimedia rate limits
+      const local = await downloadImage(PLACEHOLDERS[slug].url, slug, 0);
+      if (local) {
+        rec.image = local;
+        rec.imageIsPlaceholder = true;
       }
     }
 

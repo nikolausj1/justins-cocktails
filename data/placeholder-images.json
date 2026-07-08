@@ -1,0 +1,127 @@
+{
+  "_comment": "Temporary placeholder photos for recipes with no vault image, curated 2026-07-08. Justin will replace these with his own photos over time \u2014 delete an entry (or all of them) and re-run scripts/import.mjs. Mostly Wikimedia Commons; two recipe-blog images. Not license-vetted: placeholders only, do not treat as cleared for long-term use.",
+  "aperol-sour": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/VTR_-_Ultimate_Amaretto_Sour.jpg/1280px-VTR_-_Ultimate_Amaretto_Sour.jpg",
+    "source": "Wikimedia Commons: VTR - Ultimate Amaretto Sour.jpg (visual stand-in: amaretto sour)"
+  },
+  "asadero-margarita": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Margarita.jpg",
+    "source": "Wikimedia Commons: Margarita.jpg"
+  },
+  "brady-alexander": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Brandy_Alexander.jpg/1280px-Brandy_Alexander.jpg",
+    "source": "Wikimedia Commons: Brandy Alexander.jpg"
+  },
+  "classic-margarita-joey-in-university-village": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Classic_margarita_with_Cointreau%2C_good_tequila_and_fresh_lime_juice.jpg/1280px-Classic_margarita_with_Cointreau%2C_good_tequila_and_fresh_lime_juice.jpg",
+    "source": "Wikimedia Commons: Classic margarita with Cointreau, good tequila and fresh lime juice.jpg"
+  },
+  "cucumber-chill": {
+    "url": "https://zestfulkitchen.com/wp-content/uploads/2021/06/cucumber-gimlet_for-web-736x809.jpg",
+    "source": "zestfulkitchen.com cucumber gimlet (visual stand-in)"
+  },
+  "dukes-imperfect-marg": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/1280px-MargaritaReal.jpg",
+    "source": "Wikimedia Commons: MargaritaReal.jpg"
+  },
+  "espresso-martini": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Espresso_Martini_on_a_bar.jpg/1280px-Espresso_Martini_on_a_bar.jpg",
+    "source": "Wikimedia Commons: Espresso Martini on a bar.jpg"
+  },
+  "fluffy-margarita": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pisco_Sour_Cocktail.jpg/1280px-Pisco_Sour_Cocktail.jpg",
+    "source": "Wikimedia Commons: Pisco Sour Cocktail.jpg (visual stand-in: pale foamy coupe)"
+  },
+  "french-75": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/1280px-French_75.jpg",
+    "source": "Wikimedia Commons: French 75.jpg"
+  },
+  "frozen-espresso-martini": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Espresso_Martini_with_bow.jpg/1280px-Espresso_Martini_with_bow.jpg",
+    "source": "Wikimedia Commons: Espresso Martini with bow.jpg (visual stand-in)"
+  },
+  "gin-fizz": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/RamosGinFizzRooseveltNOLAJuly2009.JPG/1280px-RamosGinFizzRooseveltNOLAJuly2009.JPG",
+    "source": "Wikimedia Commons: RamosGinFizzRooseveltNOLAJuly2009.JPG (visual stand-in: fizz in collins glass)"
+  },
+  "gin-sour": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Elderflower_Sour.jpg/1280px-Elderflower_Sour.jpg",
+    "source": "Wikimedia Commons: Elderflower Sour.jpg (visual stand-in: gin sour with foam)"
+  },
+  "harry-potter-butterbeer": {
+    "url": "https://abeautifulmess.com/wp-content/uploads/2023/10/Harry-Potter-Butterbeer.jpg",
+    "source": "abeautifulmess.com butterbeer recipe photo"
+  },
+  "justins-pomeranian": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greyhound_Cocktail.jpg/1280px-Greyhound_Cocktail.jpg",
+    "source": "Wikimedia Commons: Greyhound Cocktail.jpg (visual stand-in: grapefruit + gin)"
+  },
+  "lillet-blanc-with-frozen-orange-slice": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lillet_Blanc_Aperitif_01.jpg/1280px-Lillet_Blanc_Aperitif_01.jpg",
+    "source": "Wikimedia Commons: Lillet Blanc Aperitif 01.jpg"
+  },
+  "lychee-margarita": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lychee_cocktail.jpg/1280px-Lychee_cocktail.jpg",
+    "source": "Wikimedia Commons: Lychee cocktail.jpg"
+  },
+  "mexican-martini": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Triple_olive_Dirty_Martini_-_Evan_Swigart.jpg",
+    "source": "Wikimedia Commons: Triple olive Dirty Martini - Evan Swigart.jpg (visual stand-in: olives in martini glass)"
+  },
+  "mexican-mule": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moscow_Mule.jpg/1280px-Moscow_Mule.jpg",
+    "source": "Wikimedia Commons: Moscow Mule.jpg (visual stand-in: copper mug mule)"
+  },
+  "old-fashioned": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Whiskey_Old_Fashioned1.jpg/1280px-Whiskey_Old_Fashioned1.jpg",
+    "source": "Wikimedia Commons: Whiskey Old Fashioned1.jpg"
+  },
+  "paper-plane": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Whiskey_Sour_Served_Up.jpg/1280px-Whiskey_Sour_Served_Up.jpg",
+    "source": "Wikimedia Commons: Whiskey Sour Served Up.jpg (visual stand-in: amber drink in coupe)"
+  },
+  "pina-colada": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pina_Colada_at_Bonaire.jpg/1280px-Pina_Colada_at_Bonaire.jpg",
+    "source": "Wikimedia Commons: Pina Colada at Bonaire.jpg"
+  },
+  "ramos-gin-fizz": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ramos_Gin_Fizz.jpg/1280px-Ramos_Gin_Fizz.jpg",
+    "source": "Wikimedia Commons: Ramos Gin Fizz.jpg"
+  },
+  "ranch-water": {
+    "url": "https://cdn.loveandlemons.com/wp-content/uploads/2024/05/ranch-water-recipe.jpg",
+    "source": "loveandlemons.com ranch water recipe photo"
+  },
+  "spaghett": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Spaghett.jpg/1280px-Spaghett.jpg",
+    "source": "Wikimedia Commons: Spaghett.jpg"
+  },
+  "the-dude-imbibes": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/White_Russian_Cocktail.jpg/1280px-White_Russian_Cocktail.jpg",
+    "source": "Wikimedia Commons: White Russian Cocktail.jpg (visual stand-in: creamy coffee cocktail on rocks)"
+  },
+  "tom-collins": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tom_Collins.jpg/1280px-Tom_Collins.jpg",
+    "source": "Wikimedia Commons: Tom Collins.jpg"
+  },
+  "vesper-martini": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vesper_Cocktail.jpg/1280px-Vesper_Cocktail.jpg",
+    "source": "Wikimedia Commons: Vesper Cocktail.jpg"
+  },
+  "virgin-pina-colada": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pina_Colada_with_key_ingredients.jpg/1280px-Pina_Colada_with_key_ingredients.jpg",
+    "source": "Wikimedia Commons: Pina Colada with key ingredients.jpg"
+  },
+  "watermelon-cocktail": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Watermelon_Bellini_%2814888830560%29.jpg/1280px-Watermelon_Bellini_%2814888830560%29.jpg",
+    "source": "Wikimedia Commons: Watermelon Bellini.jpg (visual stand-in: watermelon + prosecco)"
+  },
+  "white-lady": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/White_Lady_Cocktail.jpg/1280px-White_Lady_Cocktail.jpg",
+    "source": "Wikimedia Commons: White Lady Cocktail.jpg"
+  },
+  "wisconsin-old-fashioned": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Old_fashioned_orange_slice_cocktail_ice_cubes_straw_on_table_%2818063379523%29.jpg",
+    "source": "Wikimedia Commons: Old fashioned orange slice cocktail ice cubes straw on table.jpg"
+  }
+}
