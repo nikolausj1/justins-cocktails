@@ -116,13 +116,25 @@ export default async function RecipePage({
           )}
         </div>
         {(recipe.strength !== null || recipe.taste !== null) && (
-          <div className="flex flex-col justify-center gap-5 border border-hairline px-5 py-6">
-            {recipe.strength !== null && (
-              <Meter label="Strength" lowWord="Gentle" highWord="Boozy" value={recipe.strength} />
-            )}
-            {recipe.taste !== null && (
-              <Meter label="Taste" lowWord="Sweet" highWord="Dry / Sour" value={recipe.taste} />
-            )}
+          <div className="flex flex-col border border-hairline px-5 py-6">
+            <p className="text-[11px] uppercase tracking-[0.16em] text-fir">At a glance</p>
+            <div className="mt-5 flex flex-col gap-5">
+              {recipe.strength !== null && (
+                <Meter label="Strength" lowWord="Gentle" highWord="Boozy" value={recipe.strength} />
+              )}
+              {recipe.taste !== null && (
+                <Meter label="Taste" lowWord="Sweet" highWord="Dry / Sour" value={recipe.taste} />
+              )}
+            </div>
+            <div className="mt-auto flex items-end justify-between gap-3 pt-6">
+              <p className="text-xs leading-relaxed text-ink-soft">
+                {recipe.glassware ?? "Serve chilled"}
+              </p>
+              <Glassware
+                keyName={recipe.glasswareKey}
+                className="h-14 w-14 shrink-0 text-fir/70"
+              />
+            </div>
           </div>
         )}
       </div>

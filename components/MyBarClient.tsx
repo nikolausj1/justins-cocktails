@@ -104,7 +104,11 @@ export function MyBarClient({
       </section>
 
       {/* results */}
-      <section aria-label="What you can make" aria-live="polite">
+      <section
+        aria-label="What you can make"
+        aria-live="polite"
+        className="lg:sticky lg:top-6 lg:self-start"
+      >
         {!hydrated ? null : owned.size === 0 ? (
           <div className="border border-dashed border-hairline px-6 py-14 text-center">
             <p className="font-serif text-xl italic">What&rsquo;s on your shelf?</p>

@@ -1,7 +1,6 @@
 import Link from "next/link";
-import { recipes, getRecipe, toCardData, spiritLabelsFor, SPIRIT_FILTERS } from "@/lib/recipes";
+import { recipes, cocktails, getRecipe, toCardData, spiritLabelsFor, SPIRIT_FILTERS } from "@/lib/recipes";
 import { BrowseClient } from "@/components/BrowseClient";
-import { MiniStrength } from "@/components/Meter";
 
 /** The signature drinks — the ones people get this link for. */
 const FEATURED: { slug: string; blurb: string }[] = [
@@ -37,7 +36,7 @@ function Featured() {
           <Link
             key={slug}
             href={`/recipes/${slug}/`}
-            className="group flex flex-col border border-hairline bg-white/40 transition-colors hover:border-fir"
+            className="group flex flex-col border border-hairline bg-white/40 transition-colors duration-300 hover:border-fir"
           >
             <div className="relative aspect-[4/3] overflow-hidden border-b border-hairline bg-cream-deep">
               {recipe.imageCard && (
@@ -47,26 +46,21 @@ function Featured() {
                   alt={recipe.title}
                   loading={i === 0 ? "eager" : "lazy"}
                   fetchPriority={i === 0 ? "high" : "auto"}
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04]"
                 />
               )}
-              <span className="absolute left-3 top-3 border border-fir bg-cream px-2 py-0.5 text-[11px] uppercase tracking-[0.14em] text-fir">
+              <span className="absolute left-3 top-3 bg-fir px-2.5 py-1 text-[10px] uppercase tracking-[0.16em] text-cream">
                 House original
               </span>
             </div>
             <div className="flex flex-1 flex-col gap-1.5 p-4">
-              <h3 className="font-serif text-xl leading-snug group-hover:text-fir-deep">
-                {recipe.title}
-              </h3>
-              <p className="text-xs uppercase tracking-[0.12em] text-ink-soft">
+              <p className="text-[11px] uppercase tracking-[0.14em] text-fir">
                 {spiritLabelsFor(recipe).join(" · ")}
               </p>
-              <p className="text-sm leading-relaxed text-ink-soft">{blurb}</p>
-              {recipe.strength !== null && (
-                <div className="mt-auto pt-2">
-                  <MiniStrength value={recipe.strength} />
-                </div>
-              )}
+              <h3 className="font-serif text-xl leading-snug transition-colors duration-200 group-hover:text-fir-deep">
+                {recipe.title}
+              </h3>
+              <p className="mt-0.5 text-sm leading-relaxed text-ink-soft">{blurb}</p>
             </div>
           </Link>
         ))}
@@ -88,10 +82,15 @@ export default function Home() {
   return (
     <main className="mx-auto max-w-6xl px-5 py-10">
       <div className="max-w-2xl">
-        <h1 className="font-serif text-4xl leading-tight tracking-tight sm:text-5xl">
+        <p className="flex items-center gap-3 text-[11px] uppercase tracking-[0.18em] text-fir">
+          Justin&rsquo;s home bar
+          <span aria-hidden="true" className="h-px w-8 bg-fir/40" />
+          {cocktails.length} recipes
+        </p>
+        <h1 className="mt-4 font-serif text-4xl leading-[1.05] tracking-tight sm:text-6xl">
           Drinks worth the squeeze.
         </h1>
-        <p className="mt-3 text-[15px] leading-relaxed text-ink-soft">
+        <p className="mt-4 text-[15px] leading-relaxed text-ink-soft">
           Every recipe here has been made, tweaked, and argued over at Justin&rsquo;s home
           bar until it earned its place. Fresh citrus is non-negotiable; everything else
           is explained as you go.

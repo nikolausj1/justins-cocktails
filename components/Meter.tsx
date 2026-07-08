@@ -41,19 +41,3 @@ export function Meter({
     </div>
   );
 }
-
-/** Tiny strength row for cards. */
-export function MiniStrength({ value }: { value: number }) {
-  return (
-    <span className="inline-flex items-center gap-[3px]" aria-label={`Strength ${value} of 10`}>
-      {Array.from({ length: 10 }, (_, i) => (
-        <span
-          key={i}
-          className={`h-[4px] w-[4px] rounded-full ${
-            i < value ? "bg-fir" : "bg-ink-soft/30"
-          }`}
-        />
-      ))}
-    </span>
-  );
-}

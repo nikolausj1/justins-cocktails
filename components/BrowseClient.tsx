@@ -153,13 +153,14 @@ export function BrowseClient({
       ) : (
         <>
           {drinks.length > 0 && (
-            <section className="mt-10">
-              <div className="flex items-baseline justify-between">
-                <h2 className="font-serif text-xl">
+            <section className="mt-12">
+              <div className="flex items-baseline gap-4">
+                <h2 className="font-serif text-2xl tracking-tight">
                   {filtering ? `${drinks.length} drink${drinks.length === 1 ? "" : "s"}` : "The drinks"}
                 </h2>
+                <span aria-hidden="true" className="hidden h-px flex-1 bg-hairline sm:block" />
               </div>
-              <div className="mt-4 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+              <div className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
                 {drinks.map((c) => (
                   <RecipeCard key={c.slug} card={c} />
                 ))}
@@ -168,11 +169,14 @@ export function BrowseClient({
           )}
           {extras.length > 0 && (
             <section className="mt-14">
-              <h2 className="font-serif text-xl">Syrups &amp; extras</h2>
+              <div className="flex items-baseline gap-4">
+                <h2 className="font-serif text-2xl tracking-tight">Syrups &amp; extras</h2>
+                <span aria-hidden="true" className="hidden h-px flex-1 bg-hairline sm:block" />
+              </div>
               <p className="mt-1 text-sm text-ink-soft">
                 House-made components the drinks above lean on.
               </p>
-              <div className="mt-4 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+              <div className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
                 {extras.map((c) => (
                   <RecipeCard key={c.slug} card={c} />
                 ))}
